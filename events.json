@@ -1,0 +1,5735 @@
+[
+    {
+        "relevance": null,
+        "id": "86uCqJmuKRLhqUo7Ha",
+        "title": "Youth Basketball - The National Hoops Series IX National Championships",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 13,
+        "local_rank": 47,
+        "phq_attendance": 14,
+        "entities": [
+            {
+                "entity_id": "dPhmQWndGwudyWUNa2nwTZ",
+                "name": "Mill Springs Academy",
+                "type": "venue",
+                "formatted_address": "13660 New Providence Rd, Alpharetta, GA 30004, USA"
+            }
+        ],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-06-24T08:57:04Z",
+        "first_seen": "2024-12-19T01:45:18Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.3715109,
+            34.1168808
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.3715109,
+                    34.1168808
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8g6-y8p-wp9",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "13660 New Providence Rd, Alpharetta, GA 30004, USA",
+                "postcode": "30004",
+                "locality": "Alpharetta",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 4,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 4,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 4,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 4,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 4,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 4,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4180246"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4187535",
+                "4186213"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 189,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 110,
+            "transportation": 78
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "97HiovCP63qGVwcMjZ",
+        "title": "Youth Basketball - The National Hoops Series IX National Championships",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 13,
+        "local_rank": 47,
+        "phq_attendance": 14,
+        "entities": [],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-06-20T11:03:09Z",
+        "first_seen": "2024-12-19T01:44:50Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.4239658,
+            34.1702961
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.4239658,
+                    34.1702961
+                ],
+                "type": "Point"
+            },
+            "placekey": "07yrqfmafu@8g6-y5z-x5z",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Hickory Road, Canton, GA 30115, United States of America",
+                "locality": "Canton",
+                "postcode": "30115",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 4,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 4,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 4,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 4,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 4,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 4,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4187535",
+                "4200218"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4187535",
+                "4186213"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 204,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 118,
+            "transportation": 85
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "5MGPSusxfsrkwhLKRi",
+        "title": "Youth Basketball - D1 AllStar National Championship",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 14,
+        "local_rank": 41,
+        "phq_attendance": 15,
+        "entities": [],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-06-24T04:24:01Z",
+        "first_seen": "2025-01-29T17:15:12Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.1441732,
+            34.0092045
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.1441732,
+                    34.0092045
+                ],
+                "type": "Point"
+            },
+            "placekey": "04i4all5by@8g6-ytc-yy9",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Brock Road Northwest, Duluth, GA 30096, United States of America",
+                "locality": "Duluth",
+                "postcode": "30096",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 6,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 5,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 6,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 5,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 5,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 6,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 5,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4192289"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 247,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 149,
+            "transportation": 97
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "8yuiVJLoGWRUhndNdS",
+        "title": "Youth Basketball - SHOWCASE OF CHAMPIONS",
+        "alternate_titles": [
+            "Youth Basketball - Hello Summer"
+        ],
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 24,
+        "local_rank": 58,
+        "phq_attendance": 52,
+        "entities": [
+            {
+                "entity_id": "unYEN5qiGh7wyRhuj6pAtB",
+                "name": "North Forsyth High School",
+                "type": "venue",
+                "formatted_address": "3635 Coal Mountain Drive, Cumming, GA 30028, United States of America"
+            }
+        ],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-06-25T15:07:27Z",
+        "first_seen": "2024-10-22T01:37:51Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.107884,
+            34.278868
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.107884,
+                    34.278868
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8gb-pvd-rzf",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "3635 Coal Mountain Drive, Cumming, GA 30028, United States of America",
+                "postcode": "30028",
+                "locality": "Cumming",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 16,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 20,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 16,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 16,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 20,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 16,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 16,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 20,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 16,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4188534"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 990,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 628,
+            "transportation": 362
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "3XnFZdLwVFN8sGLuCi",
+        "title": "Independence Day 5K and 1K",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 29,
+        "local_rank": 60,
+        "phq_attendance": 86,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-28T12:00:00Z",
+        "start_local": "2025-06-28T08:00:00",
+        "end": "2025-06-28T12:00:00Z",
+        "end_local": "2025-06-28T08:00:00",
+        "updated": "2025-05-05T04:18:10Z",
+        "first_seen": "2025-05-05T04:17:54Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.1401926,
+            34.2073196
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.1401926,
+                    34.2073196
+                ],
+                "type": "Point"
+            },
+            "placekey": "0kcvvfect5@8gb-pwx-xbk",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Tribble Gap Road, Cumming, GA 30040, United States of America",
+                "locality": "Cumming",
+                "postcode": "30040",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 86,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 86,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 86,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1638,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1039,
+            "transportation": 599
+        },
+        "phq_labels": [
+            {
+                "label": "outdoor-sports",
+                "weight": 0.5
+            },
+            {
+                "label": "running",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Saturday, June 28 at 08:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "5i4G9nhnu8jzt4VDcY",
+        "title": "PCOM Georgia Blaze 5K",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 29,
+        "local_rank": 58,
+        "phq_attendance": 88,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-28T11:35:00Z",
+        "start_local": "2025-06-28T07:35:00",
+        "end": "2025-06-28T11:35:00Z",
+        "end_local": "2025-06-28T07:35:00",
+        "updated": "2025-06-14T11:35:19Z",
+        "first_seen": "2025-04-07T11:01:37Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.0712997,
+            34.0514898
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.0712997,
+                    34.0514898
+                ],
+                "type": "Point"
+            },
+            "placekey": "0locof2akv@8g6-yb8-k4v",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "U.S. 23, Suwanee, GA 30024, United States of America",
+                "locality": "Suwanee",
+                "postcode": "30024",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 88,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 88,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 88,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4225309"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1812,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1099,
+            "transportation": 713
+        },
+        "phq_labels": [
+            {
+                "label": "outdoor-sports",
+                "weight": 0.5
+            },
+            {
+                "label": "running",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Saturday, June 28 at 07:35 AM"
+    },
+    {
+        "relevance": null,
+        "id": "43BysexmaXXDBVepAv",
+        "title": "Roswell Summer Cornhole Leagues [Register by May 27]",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 57,
+        "phq_attendance": 100,
+        "entities": [
+            {
+                "entity_id": "SZvteGMGBwgDsnKKqZ7QF7",
+                "name": "Roswell Junction",
+                "type": "venue",
+                "formatted_address": "340 S Atlanta St, Roswell, GA 30075, USA"
+            }
+        ],
+        "duration": 7200,
+        "start": "2025-06-26T22:30:00Z",
+        "start_local": "2025-06-26T18:30:00",
+        "end": "2025-06-27T00:30:00Z",
+        "end_local": "2025-06-26T20:30:00",
+        "updated": "2025-06-22T02:46:17Z",
+        "first_seen": "2025-06-22T01:40:26Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.3595352,
+            34.0082016
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.3595352,
+                    34.0082016
+                ],
+                "type": "Point"
+            },
+            "placekey": "226-224@8g6-y4x-5mk",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "340 S Atlanta St, Roswell, GA 30075, USA",
+                "postcode": "30075",
+                "locality": "Roswell",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4219934"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4188547",
+                "4207783"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1946,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1153,
+            "transportation": 792
+        },
+        "time_str": "Thursday, June 26 at 06:30 PM"
+    },
+    {
+        "relevance": null,
+        "id": "4k7rcJitmSqMMYW4oi",
+        "title": "Yu-Gi-Oh! Casual Play Night",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 62,
+        "phq_attendance": 100,
+        "entities": [],
+        "duration": 14400,
+        "start": "2025-06-25T22:00:00Z",
+        "start_local": "2025-06-25T18:00:00",
+        "end": "2025-06-26T02:00:00Z",
+        "end_local": "2025-06-25T22:00:00",
+        "updated": "2025-06-22T03:00:43Z",
+        "first_seen": "2025-06-22T01:40:54Z",
+        "timezone": "America/New_York",
+        "location": [
+            -83.87384,
+            34.10655
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -83.87384,
+                    34.10655
+                ],
+                "type": "Point"
+            },
+            "placekey": "1ia4klet7q@8g7-2ft-28v",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Spout Springs Road, Flowery Branch, GA 30542, United States of America",
+                "locality": "Flowery Branch",
+                "postcode": "30542",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198821",
+                "4219210"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4181182",
+                "4231523"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1748,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 941,
+            "transportation": 807
+        },
+        "time_str": "Wednesday, June 25 at 06:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "5kSFLEZLyzkWQGapFb",
+        "title": "Men's Happy Hour Networking  @ Tito's Sports Bar & Grill - June 2025",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 57,
+        "phq_attendance": 100,
+        "entities": [],
+        "duration": 5400,
+        "start": "2025-06-26T20:00:00Z",
+        "start_local": "2025-06-26T16:00:00",
+        "end": "2025-06-26T21:30:00Z",
+        "end_local": "2025-06-26T17:30:00",
+        "updated": "2025-06-22T02:39:48Z",
+        "first_seen": "2025-06-22T01:39:56Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.18519,
+            34.03185
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.18519,
+                    34.03185
+                ],
+                "type": "Point"
+            },
+            "placekey": "17s5ssmv6f@8g6-ysh-vxq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Medlock Bridge Road, Johns Creek, GA 30097, United States of America",
+                "locality": "Johns Creek",
+                "postcode": "30097",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "6331909"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1904,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1208,
+            "transportation": 696
+        },
+        "time_str": "Thursday, June 26 at 04:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "7XXP62jHXVQwShS8nf",
+        "title": "Hoschton (Thursday) Summer Cornhole Leagues [Register by May 27]",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 62,
+        "phq_attendance": 100,
+        "entities": [],
+        "duration": 7200,
+        "start": "2025-06-26T22:30:00Z",
+        "start_local": "2025-06-26T18:30:00",
+        "end": "2025-06-27T00:30:00Z",
+        "end_local": "2025-06-26T20:30:00",
+        "updated": "2025-06-22T02:16:52Z",
+        "first_seen": "2025-06-22T01:40:54Z",
+        "timezone": "America/New_York",
+        "location": [
+            -83.86248,
+            34.11348
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -83.86248,
+                    34.11348
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8g7-2fr-7yv",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Grand Reunion Drive, Hoschton, GA 30548, United States of America",
+                "locality": "Hoschton",
+                "postcode": "30548",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198821",
+                "4187672"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4181182",
+                "4231523"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1748,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 941,
+            "transportation": 807
+        },
+        "time_str": "Thursday, June 26 at 06:30 PM"
+    },
+    {
+        "relevance": null,
+        "id": "8sU3xGRJB5bYBetuQw",
+        "title": "Youth Basketball - SHOWCASE OF CHAMPIONS",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 60,
+        "phq_attendance": 97,
+        "entities": [
+            {
+                "entity_id": "CRT43ajWp5uVqBrwePt8Y4",
+                "name": "South Forsyth High School",
+                "type": "venue",
+                "formatted_address": "585 Peachtree Pkwy, Cumming, GA 30041, USA"
+            }
+        ],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-05-28T00:48:59Z",
+        "first_seen": "2024-10-22T01:37:42Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.1719166,
+            34.1476358
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.1719166,
+                    34.1476358
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8g6-yfy-yqf",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "585 Peachtree Pkwy, Cumming, GA 30041, USA",
+                "postcode": "30041",
+                "locality": "Cumming",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 30,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 36,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 30,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 30,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 36,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 30,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 30,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 36,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 30,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4207861"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1828,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1159,
+            "transportation": 668
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "9aCxXSoWSDyBr7kTCQ",
+        "title": "Twisted Tavern Tournament ($300 prize)",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 59,
+        "phq_attendance": 100,
+        "entities": [
+            {
+                "entity_id": "38gvce7Gj4mDT2Hys44fYk4",
+                "name": "Twisted Tavern",
+                "type": "venue",
+                "formatted_address": "4450 Nelson Brogdon Boulevard Northeast, Buford, GA 30518, United States of America"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-27T20:00:00Z",
+        "start_local": "2025-06-27T16:00:00",
+        "end": "2025-06-27T20:00:00Z",
+        "end_local": "2025-06-27T16:00:00",
+        "updated": "2025-06-08T02:05:32Z",
+        "first_seen": "2025-06-08T01:47:38Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.0160608,
+            34.0972815
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.0160608,
+                    34.0972815
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8g7-26q-psq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "4450 Nelson Brogdon Boulevard Northeast, Buford, GA 30518, United States of America",
+                "postcode": "30518",
+                "locality": "Buford",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4214201"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2060,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1249,
+            "transportation": 810
+        },
+        "time_str": "Friday, June 27 at 04:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "Ae6NLaJQSQ6fW4ULLj",
+        "title": "Echo: (EAST) Friday Night Game Night with Friends!",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 58,
+        "phq_attendance": 100,
+        "entities": [],
+        "duration": 7200,
+        "start": "2025-06-27T23:00:00Z",
+        "start_local": "2025-06-27T19:00:00",
+        "end": "2025-06-28T01:00:00Z",
+        "end_local": "2025-06-27T21:00:00",
+        "updated": "2025-06-15T01:48:24Z",
+        "first_seen": "2025-06-08T01:42:13Z",
+        "timezone": "America/New_York",
+        "location": [
+            -83.91247,
+            34.02198
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -83.91247,
+                    34.02198
+                ],
+                "type": "Point"
+            },
+            "placekey": "1t77vs5cz3@8g7-23m-wrk",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Glen Valley Way, Dacula, GA 30019, United States of America",
+                "locality": "Dacula",
+                "postcode": "30019",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "12524856"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2060,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1249,
+            "transportation": 810
+        },
+        "phq_labels": [
+            {
+                "label": "volleyball",
+                "weight": 1.0
+            }
+        ],
+        "time_str": "Friday, June 27 at 07:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "BkBZFon3CudcZadQ76",
+        "title": "Disney Lorcana League Night",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 62,
+        "phq_attendance": 100,
+        "entities": [],
+        "duration": 10800,
+        "start": "2025-06-26T23:00:00Z",
+        "start_local": "2025-06-26T19:00:00",
+        "end": "2025-06-27T02:00:00Z",
+        "end_local": "2025-06-26T22:00:00",
+        "updated": "2025-06-22T02:16:52Z",
+        "first_seen": "2025-06-22T01:40:54Z",
+        "timezone": "America/New_York",
+        "location": [
+            -83.87384,
+            34.10655
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -83.87384,
+                    34.10655
+                ],
+                "type": "Point"
+            },
+            "placekey": "1ia4klet7q@8g7-2ft-28v",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Spout Springs Road, Flowery Branch, GA 30542, United States of America",
+                "locality": "Flowery Branch",
+                "postcode": "30542",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198821",
+                "4219210"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4181182",
+                "4231523"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1748,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 941,
+            "transportation": 807
+        },
+        "time_str": "Thursday, June 26 at 07:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "DrK3WDBsnFukU9R6ET",
+        "title": "Andretti Buford: Austria Grand Prix",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 56,
+        "phq_attendance": 100,
+        "entities": [],
+        "duration": 14400,
+        "start": "2025-06-29T12:00:00Z",
+        "start_local": "2025-06-29T08:00:00",
+        "end": "2025-06-29T16:00:00Z",
+        "end_local": "2025-06-29T12:00:00",
+        "updated": "2025-06-22T02:05:19Z",
+        "first_seen": "2025-06-22T01:37:37Z",
+        "timezone": "America/New_York",
+        "location": [
+            -83.99125,
+            34.05462
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -83.99125,
+                    34.05462
+                ],
+                "type": "Point"
+            },
+            "placekey": "222-22z@8g7-268-nnq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Buford Drive, Buford, GA 30519, United States of America",
+                "locality": "Buford",
+                "postcode": "30519",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4198694"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2060,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1249,
+            "transportation": 810
+        },
+        "time_str": "Sunday, June 29 at 08:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "cyvsq4wSryNtFNzG5D",
+        "title": "NGCA ACL Blind Draw @ Fairway Social",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 30,
+        "local_rank": 58,
+        "phq_attendance": 100,
+        "entities": [],
+        "duration": 10800,
+        "start": "2025-06-25T23:00:00Z",
+        "start_local": "2025-06-25T19:00:00",
+        "end": "2025-06-26T02:00:00Z",
+        "end_local": "2025-06-25T22:00:00",
+        "updated": "2025-06-22T03:31:55Z",
+        "first_seen": "2025-06-22T01:38:06Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.29789,
+            34.06931
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.29789,
+                    34.06931
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8g6-y39-nt9",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "South Main Street, Alpharetta, GA 30009, United States of America",
+                "locality": "Alpharetta",
+                "postcode": "30009",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 100,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4179574"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 1904,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1208,
+            "transportation": 696
+        },
+        "time_str": "Wednesday, June 25 at 07:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "DZeafhswsjCrUbYCzy",
+        "title": "Julie Gribble",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 31,
+        "local_rank": 59,
+        "phq_attendance": 113,
+        "entities": [
+            {
+                "entity_id": "KJKcmbx6enn8Ffy8eZHmLE",
+                "name": "Six Bridges Brewing",
+                "type": "venue",
+                "formatted_address": "11455 Lakefield Drive, Duluth, GA 30097, United States of America"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-28T22:00:00Z",
+        "start_local": "2025-06-28T18:00:00",
+        "end": "2025-06-28T22:00:00Z",
+        "end_local": "2025-06-28T18:00:00",
+        "predicted_end": "2025-06-29T02:10:00Z",
+        "predicted_end_local": "2025-06-28T22:10:00",
+        "updated": "2025-06-22T00:23:55Z",
+        "first_seen": "2025-06-22T00:22:33Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.1641552,
+            34.0597004
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.1641552,
+                    34.0597004
+                ],
+                "type": "Point"
+            },
+            "placekey": "223-222@8g6-ycv-33q",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "11455 Lakefield Drive, Duluth, GA 30097, United States of America",
+                "postcode": "30097",
+                "locality": "Duluth",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 113,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 113,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 113,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "8030351"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2152,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1365,
+            "transportation": 787
+        },
+        "time_str": "Saturday, June 28 at 06:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "HYQgJbfPf49bhSAgBs",
+        "title": "Made in the USA 5K/10K/Half Marathon",
+        "alternate_titles": [
+            "Made in the USA 5K/10K/15K/Half"
+        ],
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 31,
+        "local_rank": 60,
+        "phq_attendance": 111,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-28T11:30:00Z",
+        "start_local": "2025-06-28T07:30:00",
+        "end": "2025-06-28T11:30:00Z",
+        "end_local": "2025-06-28T07:30:00",
+        "updated": "2025-06-04T06:38:32Z",
+        "first_seen": "2025-01-27T02:47:21Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.04340397490819,
+            34.09322363011613
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -84.053270387,
+                            34.0834588851
+                        ],
+                        [
+                            -84.0536175203,
+                            34.0841421665
+                        ],
+                        [
+                            -84.052525522,
+                            34.087205195
+                        ],
+                        [
+                            -84.0523402859,
+                            34.0871698267
+                        ],
+                        [
+                            -84.0524407587,
+                            34.0842859444
+                        ],
+                        [
+                            -84.0510581769,
+                            34.0851497211
+                        ],
+                        [
+                            -84.0486542517,
+                            34.0873538425
+                        ],
+                        [
+                            -84.0500452693,
+                            34.0867430285
+                        ],
+                        [
+                            -84.0502253541,
+                            34.0870544132
+                        ],
+                        [
+                            -84.0486715857,
+                            34.0881992444
+                        ],
+                        [
+                            -84.0486392384,
+                            34.0882335077
+                        ],
+                        [
+                            -84.0490992623,
+                            34.0882625302
+                        ],
+                        [
+                            -84.0494787861,
+                            34.0884387944
+                        ],
+                        [
+                            -84.0497801182,
+                            34.0887670976
+                        ],
+                        [
+                            -84.049940155,
+                            34.0888125045
+                        ],
+                        [
+                            -84.0499553218,
+                            34.0890163742
+                        ],
+                        [
+                            -84.0500578859,
+                            34.0892310433
+                        ],
+                        [
+                            -84.0500155913,
+                            34.0896225142
+                        ],
+                        [
+                            -84.0500724106,
+                            34.0897327375
+                        ],
+                        [
+                            -84.0501742023,
+                            34.0899302022
+                        ],
+                        [
+                            -84.0501820973,
+                            34.0899455176
+                        ],
+                        [
+                            -84.0501862305,
+                            34.0900128958
+                        ],
+                        [
+                            -84.0502527513,
+                            34.0904702269
+                        ],
+                        [
+                            -84.0502437272,
+                            34.0908180678
+                        ],
+                        [
+                            -84.0502437272,
+                            34.0908180679
+                        ],
+                        [
+                            -84.0504094109,
+                            34.0911126168
+                        ],
+                        [
+                            -84.050916905,
+                            34.0920148284
+                        ],
+                        [
+                            -84.0499678135,
+                            34.0917066761
+                        ],
+                        [
+                            -84.0448638307,
+                            34.0907729508
+                        ],
+                        [
+                            -84.0376007474,
+                            34.0985947328
+                        ],
+                        [
+                            -84.0371320365,
+                            34.0990821921
+                        ],
+                        [
+                            -84.03694931,
+                            34.099276238
+                        ],
+                        [
+                            -84.0318018889,
+                            34.104593044
+                        ],
+                        [
+                            -84.0318018895,
+                            34.1045930445
+                        ],
+                        [
+                            -84.0362810951,
+                            34.107763511
+                        ],
+                        [
+                            -84.0336530252,
+                            34.1063549781
+                        ],
+                        [
+                            -84.0358189049,
+                            34.108416489
+                        ],
+                        [
+                            -84.0305812556,
+                            34.1047091816
+                        ],
+                        [
+                            -84.0305815963,
+                            34.1047088239
+                        ],
+                        [
+                            -84.0305781111,
+                            34.104706956
+                        ],
+                        [
+                            -84.0309014753,
+                            34.1043729509
+                        ],
+                        [
+                            -84.0314952043,
+                            34.1037495355
+                        ],
+                        [
+                            -84.0318743806,
+                            34.1033204676
+                        ],
+                        [
+                            -84.0328310377,
+                            34.10230339
+                        ],
+                        [
+                            -84.0343449893,
+                            34.1007493337
+                        ],
+                        [
+                            -84.0365240673,
+                            34.0985602599
+                        ],
+                        [
+                            -84.0365524796,
+                            34.0985307111
+                        ],
+                        [
+                            -84.0374956272,
+                            34.0975291385
+                        ],
+                        [
+                            -84.0422196447,
+                            34.0922746699
+                        ],
+                        [
+                            -84.0444319204,
+                            34.0900623942
+                        ],
+                        [
+                            -84.0444588031,
+                            34.0900334436
+                        ],
+                        [
+                            -84.0444650319,
+                            34.0900292827
+                        ],
+                        [
+                            -84.0445855494,
+                            34.0899087652
+                        ],
+                        [
+                            -84.0446325685,
+                            34.0899173669
+                        ],
+                        [
+                            -84.0448716128,
+                            34.0897576835
+                        ],
+                        [
+                            -84.0448612381,
+                            34.089746234
+                        ],
+                        [
+                            -84.0463733314,
+                            34.0883598169
+                        ],
+                        [
+                            -84.0496906439,
+                            34.0852494797
+                        ],
+                        [
+                            -84.0505513339,
+                            34.0845290652
+                        ],
+                        [
+                            -84.0505718231,
+                            34.0845102789
+                        ],
+                        [
+                            -84.0505917303,
+                            34.0844978417
+                        ],
+                        [
+                            -84.052622098,
+                            34.0830323704
+                        ],
+                        [
+                            -84.052820898,
+                            34.0831051551
+                        ],
+                        [
+                            -84.0532932413,
+                            34.0828100556
+                        ],
+                        [
+                            -84.053270387,
+                            34.0834588851
+                        ]
+                    ],
+                    [
+                        [
+                            -84.0468243544,
+                            34.0890306107
+                        ],
+                        [
+                            -84.0461569581,
+                            34.0896282516
+                        ],
+                        [
+                            -84.0494262453,
+                            34.0906897282
+                        ],
+                        [
+                            -84.0493939027,
+                            34.0901624824
+                        ],
+                        [
+                            -84.0492869756,
+                            34.0899550555
+                        ],
+                        [
+                            -84.0492121443,
+                            34.0898098909
+                        ],
+                        [
+                            -84.0491944087,
+                            34.0897754858
+                        ],
+                        [
+                            -84.0492033962,
+                            34.0896922995
+                        ],
+                        [
+                            -84.049183845,
+                            34.0894294955
+                        ],
+                        [
+                            -84.0475520454,
+                            34.0889665081
+                        ],
+                        [
+                            -84.0472079648,
+                            34.0889448003
+                        ],
+                        [
+                            -84.0472103409,
+                            34.0888695569
+                        ],
+                        [
+                            -84.0472106118,
+                            34.0888609772
+                        ],
+                        [
+                            -84.0468243544,
+                            34.0890306107
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Gold Crest Court, Sugar Hill, GA 30518, United States of America",
+                "locality": "Sugar Hill",
+                "postcode": "30518",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 111,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 111,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 111,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4225039"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2286,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1386,
+            "transportation": 900
+        },
+        "phq_labels": [
+            {
+                "label": "marathon",
+                "weight": 0.33
+            },
+            {
+                "label": "outdoor-sports",
+                "weight": 0.33
+            },
+            {
+                "label": "running",
+                "weight": 0.33
+            }
+        ],
+        "time_str": "Saturday, June 28 at 07:30 AM"
+    },
+    {
+        "relevance": null,
+        "id": "6bjXDsh8KyzQyHNZH3",
+        "title": "Rare Birds Free Show (inside stage)",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 32,
+        "local_rank": 55,
+        "phq_attendance": 120,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-29T00:00:00Z",
+        "start_local": "2025-06-28T20:00:00",
+        "end": "2025-06-29T00:00:00Z",
+        "end_local": "2025-06-28T20:00:00",
+        "updated": "2025-06-01T02:22:01Z",
+        "first_seen": "2025-06-01T01:27:05Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.31188,
+            34.01807
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.31188,
+                    34.01807
+                ],
+                "type": "Point"
+            },
+            "placekey": "13hpua3sre@8g6-y2v-975",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Holcomb Bridge Road, Roswell, GA 30076, United States of America",
+                "locality": "Roswell",
+                "postcode": "30076",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 120,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 120,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 120,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4201420"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4188547",
+                "4207783"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2336,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1384,
+            "transportation": 951
+        },
+        "time_str": "Saturday, June 28 at 08:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "7HhtzKhSbZQNfHk87B",
+        "title": "Float & Flow: A Luxury Floating Sound Bath Experience",
+        "description": "Sourced from predicthq.com - Experience a luxury relaxing and immersive experience at an indoor pool, with soothing sounds and good vibes at Float & Flow!",
+        "category": "concerts",
+        "rank": 32,
+        "local_rank": 57,
+        "phq_attendance": 125,
+        "entities": [],
+        "duration": 5400,
+        "start": "2025-06-28T22:00:00Z",
+        "start_local": "2025-06-28T18:00:00",
+        "end": "2025-06-28T23:30:00Z",
+        "end_local": "2025-06-28T19:30:00",
+        "updated": "2025-06-22T02:20:28Z",
+        "first_seen": "2025-06-05T20:59:18Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.211514,
+            34.0630415
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.211514,
+                    34.0630415
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8g6-ycr-zxq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Abbotts Bridge Road, Alpharetta, GA 30005, United States of America",
+                "locality": "Alpharetta",
+                "postcode": "30005",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 125,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 125,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 125,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4213799"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2381,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1510,
+            "transportation": 870
+        },
+        "time_str": "Saturday, June 28 at 06:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "BXm6fqbQFLRfyRSk25",
+        "title": "WhiskeyDawg Acoustic",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 33,
+        "local_rank": 66,
+        "phq_attendance": 144,
+        "entities": [
+            {
+                "entity_id": "3AtB5U36DmbN7xj9PHfpbzh",
+                "name": "FLOWERY BRANCH WINERY & VINEYARD",
+                "type": "venue",
+                "formatted_address": "5773 Conner Rd, Flowery Branch, GA 30542, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-28T21:00:00Z",
+        "start_local": "2025-06-28T17:00:00",
+        "end": "2025-06-28T21:00:00Z",
+        "end_local": "2025-06-28T17:00:00",
+        "predicted_end": "2025-06-29T01:10:00Z",
+        "predicted_end_local": "2025-06-28T21:10:00",
+        "updated": "2025-06-04T07:12:28Z",
+        "first_seen": "2025-03-02T01:55:29Z",
+        "timezone": "America/New_York",
+        "location": [
+            -83.9330597,
+            34.2034492
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -83.9330597,
+                    34.2034492
+                ],
+                "type": "Point"
+            },
+            "placekey": "222-222@8gb-q5g-c89",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "5773 Conner Rd, Flowery Branch, GA 30542, USA",
+                "postcode": "30542",
+                "locality": "Flowery Branch",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 144,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 144,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 144,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198821",
+                "4198109"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198821",
+                "4196586"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3013,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1747,
+            "transportation": 1265
+        },
+        "time_str": "Saturday, June 28 at 05:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "E7bFEj4s5jDCXdMKdf",
+        "title": "Radio 80s at The Lou Sobh Amphitheater",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 33,
+        "local_rank": 64,
+        "phq_attendance": 148,
+        "entities": [],
+        "duration": 7200,
+        "start": "2025-06-29T00:00:00Z",
+        "start_local": "2025-06-28T20:00:00",
+        "end": "2025-06-29T02:00:00Z",
+        "end_local": "2025-06-28T22:00:00",
+        "updated": "2025-05-25T00:42:03Z",
+        "first_seen": "2025-02-23T02:57:43Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.14765,
+            34.21586
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.14765,
+                    34.21586
+                ],
+                "type": "Point"
+            },
+            "placekey": "1fmzybalmg@8gb-px6-wp9",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Vision Drive, Cumming, GA 30040, United States of America",
+                "locality": "Cumming",
+                "postcode": "30040",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 148,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 148,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 148,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2819,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1788,
+            "transportation": 1031
+        },
+        "time_str": "Saturday, June 28 at 08:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "FFnmnXBDoXSJKt5pxb",
+        "title": "Mother Legacy",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 33,
+        "local_rank": 71,
+        "phq_attendance": 145,
+        "entities": [
+            {
+                "entity_id": "pvQRQ5BYPeRd8rtQbaab2S",
+                "name": "Feather’s Edge Vineyards",
+                "type": "venue",
+                "formatted_address": "10061 Ball Ground Hwy, Jasper, United States of America"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-27T19:00:00Z",
+        "start_local": "2025-06-27T15:00:00",
+        "end": "2025-06-27T19:00:00Z",
+        "end_local": "2025-06-27T15:00:00",
+        "predicted_end": "2025-06-27T23:10:00Z",
+        "predicted_end_local": "2025-06-27T19:10:00",
+        "updated": "2025-06-22T00:24:36Z",
+        "first_seen": "2025-06-22T00:23:32Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.37971,
+            34.35264
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.37971,
+                    34.35264
+                ],
+                "type": "Point"
+            },
+            "placekey": "@8gb-3jt-zcq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "10061 Ball Ground Hwy, Jasper, United States of America",
+                "locality": "Jasper"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 145,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 145,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 145,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4187535",
+                "4180913"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4215637",
+                "4202634"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3034,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1759,
+            "transportation": 1274
+        },
+        "time_str": "Friday, June 27 at 03:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "GKGx6zCCPRxcXoXhjX",
+        "title": "Quiet Fire featuring Haley Rose (from Neon Rose) at WWC Dawsonville",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 33,
+        "local_rank": 66,
+        "phq_attendance": 135,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-29T01:30:00Z",
+        "start_local": "2025-06-28T21:30:00",
+        "end": "2025-06-29T01:30:00Z",
+        "end_local": "2025-06-28T21:30:00",
+        "updated": "2025-06-22T01:39:04Z",
+        "first_seen": "2025-06-15T01:41:35Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.04429,
+            34.35852
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.04429,
+                    34.35852
+                ],
+                "type": "Point"
+            },
+            "placekey": "1ivtgg7hi5@8gb-pvc-835",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Georgia 400, Dawsonville, GA 30534, United States of America",
+                "locality": "Dawsonville",
+                "postcode": "30534",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 135,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 135,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 135,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4190959",
+                "4207127"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4190959",
+                "4190979"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2825,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1638,
+            "transportation": 1186
+        },
+        "time_str": "Saturday, June 28 at 09:30 PM"
+    },
+    {
+        "relevance": null,
+        "id": "Hfq5tNcRrqwuTfcjNa",
+        "title": "Jonathan Ingram",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 33,
+        "local_rank": 66,
+        "phq_attendance": 138,
+        "entities": [
+            {
+                "entity_id": "figp4PHheCrWpJ49TBDA9S",
+                "name": "Fajita Grill",
+                "type": "venue",
+                "formatted_address": "384 Hwy 53 E, Dawsonville, GA 30534, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-27T22:00:00Z",
+        "start_local": "2025-06-27T18:00:00",
+        "end": "2025-06-27T22:00:00Z",
+        "end_local": "2025-06-27T18:00:00",
+        "predicted_end": "2025-06-28T02:10:00Z",
+        "predicted_end_local": "2025-06-27T22:10:00",
+        "updated": "2025-06-04T10:56:37Z",
+        "first_seen": "2025-06-01T03:09:19Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.1138687,
+            34.4164581
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.1138687,
+                    34.4164581
+                ],
+                "type": "Point"
+            },
+            "placekey": "1apdz2cxts@8gb-pk8-9fz",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "384 Hwy 53 E, Dawsonville, GA 30534, USA",
+                "postcode": "30534",
+                "locality": "Dawsonville",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 138,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 138,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 138,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4190959",
+                "4190979"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2888,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1674,
+            "transportation": 1213
+        },
+        "time_str": "Friday, June 27 at 06:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "49apCrdmwjMgeCtEom",
+        "title": "CE: Beyond the Granite w/ Ensign",
+        "description": "Sourced from predicthq.com - Building Science 102: Beyond the Granite",
+        "category": "concerts",
+        "rank": 34,
+        "local_rank": 65,
+        "phq_attendance": 157,
+        "entities": [],
+        "duration": 10800,
+        "start": "2025-06-26T14:00:00Z",
+        "start_local": "2025-06-26T10:00:00",
+        "end": "2025-06-26T17:00:00Z",
+        "end_local": "2025-06-26T13:00:00",
+        "updated": "2025-05-29T10:55:14Z",
+        "first_seen": "2025-05-29T10:53:24Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.13457059999999,
+            34.1957498
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.13457059999999,
+                    34.1957498
+                ],
+                "type": "Point"
+            },
+            "placekey": "1ts5abal2h@8gb-px6-wp9",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Lake Center Parkway, Cumming, GA 30040, United States of America",
+                "locality": "Cumming",
+                "postcode": "30040",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 157,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 157,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 157,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 2990,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1896,
+            "transportation": 1093
+        },
+        "time_str": "Thursday, June 26 at 10:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "4qqQ7GcHy5MpUD6yVA",
+        "title": "Annual Fireworks & Concert",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 34,
+        "local_rank": 70,
+        "phq_attendance": 160,
+        "entities": [],
+        "duration": 14400,
+        "start": "2025-06-28T23:00:00Z",
+        "start_local": "2025-06-28T19:00:00",
+        "end": "2025-06-29T03:00:00Z",
+        "end_local": "2025-06-28T23:00:00",
+        "updated": "2025-01-12T02:46:11Z",
+        "first_seen": "2025-01-12T02:24:03Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.37573,
+            34.33812
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.37573,
+                    34.33812
+                ],
+                "type": "Point"
+            },
+            "placekey": "225-225@8gb-3jv-w8v",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Gilmer Ferry Road, Ball Ground, GA 30107, United States of America",
+                "locality": "Ball Ground",
+                "postcode": "30107",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 160,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 160,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 160,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4187535",
+                "4180913"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4215637",
+                "4202634"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3348,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1941,
+            "transportation": 1406
+        },
+        "time_str": "Saturday, June 28 at 07:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "3PZeWfSW43MoPCQHuS",
+        "title": "🎶 Summer Concert Night at Stoney J's Winery 🎶",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 35,
+        "local_rank": 66,
+        "phq_attendance": 176,
+        "entities": [],
+        "duration": 18000,
+        "start": "2025-06-26T20:00:00Z",
+        "start_local": "2025-06-26T16:00:00",
+        "end": "2025-06-27T01:00:00Z",
+        "end_local": "2025-06-26T21:00:00",
+        "updated": "2025-06-08T02:45:58Z",
+        "first_seen": "2025-06-08T01:48:18Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.18333,
+            34.13731
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.18333,
+                    34.13731
+                ],
+                "type": "Point"
+            },
+            "placekey": "1nsaigbfet@8g6-yhf-ysq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Stoney Point Road, Cumming, GA 30041, United States of America",
+                "locality": "Cumming",
+                "postcode": "30041",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 176,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 176,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 176,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4207861"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3352,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2126,
+            "transportation": 1226
+        },
+        "time_str": "Thursday, June 26 at 04:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "4msPQUoGbQQkKdF9QR",
+        "title": "The 44th Annual RUMC Patriotic Celebration Concerts",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 35,
+        "local_rank": 63,
+        "phq_attendance": 180,
+        "entities": [],
+        "duration": 4500,
+        "start": "2025-06-27T23:30:00Z",
+        "start_local": "2025-06-27T19:30:00",
+        "end": "2025-06-28T00:45:00Z",
+        "end_local": "2025-06-27T20:45:00",
+        "updated": "2025-06-01T02:25:55Z",
+        "first_seen": "2025-06-01T01:27:04Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.36516,
+            34.0203
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.36516,
+                    34.0203
+                ],
+                "type": "Point"
+            },
+            "placekey": "1ddy4vh4ls@8g6-ypz-qpv",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Pratt Street, Roswell, GA 30075, United States of America",
+                "locality": "Roswell",
+                "postcode": "30075",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 180,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 180,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 180,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4219934"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4188547",
+                "4207783"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3504,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2077,
+            "transportation": 1426
+        },
+        "time_str": "Friday, June 27 at 07:30 PM"
+    },
+    {
+        "relevance": null,
+        "id": "6sZ4k8Vtx6Wi98x8E8",
+        "title": "Wine Down Wednesday (Wine + Candle Making)",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 35,
+        "local_rank": 63,
+        "phq_attendance": 179,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-26T01:00:00Z",
+        "start_local": "2025-06-25T21:00:00",
+        "end": "2025-06-26T01:00:00Z",
+        "end_local": "2025-06-25T21:00:00",
+        "updated": "2025-06-22T03:01:29Z",
+        "first_seen": "2024-07-04T16:52:20Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.19858,
+            34.02893
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.19858,
+                    34.02893
+                ],
+                "type": "Point"
+            },
+            "placekey": "14cwrmbpay@8g6-y3p-8vz",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Morgan Hill Court, Johns Creek, GA 30022, United States of America",
+                "locality": "Johns Creek",
+                "postcode": "30022",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 179,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 179,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 179,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "6331909"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3409,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2162,
+            "transportation": 1246
+        },
+        "time_str": "Wednesday, June 25 at 09:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "9YDe4y8jwkD7u5TRcy",
+        "title": "On the Green Moonlight Market",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 35,
+        "local_rank": 63,
+        "phq_attendance": 183,
+        "entities": [],
+        "duration": 18000,
+        "start": "2025-06-27T21:00:00Z",
+        "start_local": "2025-06-27T17:00:00",
+        "end": "2025-06-28T02:00:00Z",
+        "end_local": "2025-06-27T22:00:00",
+        "updated": "2025-06-15T02:42:51Z",
+        "first_seen": "2025-06-15T01:51:31Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.2941,
+            34.07496
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.2941,
+                    34.07496
+                ],
+                "type": "Point"
+            },
+            "placekey": "1kl52srxgf@8g6-y3b-k4v",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "South Main Street, Alpharetta, GA 30009, United States of America",
+                "locality": "Alpharetta",
+                "postcode": "30009",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 183,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 183,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 183,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4179574"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3485,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2210,
+            "transportation": 1274
+        },
+        "time_str": "Friday, June 27 at 05:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "CWGTV3B6Ep76WVwNyN",
+        "title": "Peach Astronauts - Free Show",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 35,
+        "local_rank": 58,
+        "phq_attendance": 172,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-29T19:00:00Z",
+        "start_local": "2025-06-29T15:00:00",
+        "end": "2025-06-29T19:00:00Z",
+        "end_local": "2025-06-29T15:00:00",
+        "updated": "2025-06-22T02:18:08Z",
+        "first_seen": "2025-06-22T01:28:49Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.31188,
+            34.01807
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.31188,
+                    34.01807
+                ],
+                "type": "Point"
+            },
+            "placekey": "13hpua3sre@8g6-y2v-975",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Holcomb Bridge Road, Roswell, GA 30076, United States of America",
+                "locality": "Roswell",
+                "postcode": "30076",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 172,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 172,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 172,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4201420"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4188547",
+                "4207783"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3348,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 1984,
+            "transportation": 1363
+        },
+        "time_str": "Sunday, June 29 at 03:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "DZUkmzFMf6Se2xSF2i",
+        "title": "Dave Matthews Band",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 35,
+        "local_rank": 63,
+        "phq_attendance": 182,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-24T23:00:00Z",
+        "start_local": "2025-06-24T19:00:00",
+        "end": "2025-06-24T23:00:00Z",
+        "end_local": "2025-06-24T19:00:00",
+        "updated": "2025-06-01T04:35:35Z",
+        "first_seen": "2024-02-17T07:46:01Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.29409,
+            34.07537
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.29409,
+                    34.07537
+                ],
+                "type": "Point"
+            },
+            "placekey": "1tjed34diy@8g6-y44-t9z",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Alpharetta Highway, Alpharetta, GA 30009, United States of America",
+                "locality": "Alpharetta",
+                "postcode": "30009",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-24",
+                        "value": 182,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-24",
+                        "value": 182,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-24",
+                        "value": 182,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4179574"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3466,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2198,
+            "transportation": 1267
+        },
+        "time_str": "Tuesday, June 24 at 07:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "EkqUZJEJk5jzMVkPTs",
+        "title": "AvalOM",
+        "description": "Sourced from predicthq.com - Come salute the sun with us every Wednesday, April through October for a special yoga, barre, or pilates class presented by various studios.",
+        "category": "concerts",
+        "rank": 35,
+        "local_rank": 61,
+        "phq_attendance": 169,
+        "entities": [
+            {
+                "entity_id": "HZDj2di2KaAniu8XpJPF4v",
+                "name": "AvalOM",
+                "type": "event-group",
+                "formatted_address": "2200 Avalon Boulevard, Alpharetta, GA 30009, United States",
+                "category": "concerts",
+                "labels": [
+                    "concert",
+                    "event-group",
+                    "music",
+                    "religion"
+                ],
+                "description": "Come salute the sun with us every Wednesday, April through October for a special yoga, barre, or pilates class presented by various studios.",
+                "timezone": "America/New_York"
+            }
+        ],
+        "duration": 3600,
+        "start": "2025-06-25T22:00:00Z",
+        "start_local": "2025-06-25T18:00:00",
+        "end": "2025-06-25T23:00:00Z",
+        "end_local": "2025-06-25T19:00:00",
+        "updated": "2025-06-22T01:58:48Z",
+        "first_seen": "2025-06-19T08:42:47Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.27717,
+            34.0707877
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.27717,
+                    34.0707877
+                ],
+                "type": "Point"
+            },
+            "placekey": "1bdvflfdis@8g6-y56-2zf",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "1st Street, Alpharetta, GA 30009, United States of America",
+                "locality": "Alpharetta",
+                "postcode": "30009",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 169,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 169,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 169,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4179574"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3219,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2041,
+            "transportation": 1177
+        },
+        "time_str": "Wednesday, June 25 at 06:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "3VvNrJdaUEC8X9F75R",
+        "title": "Jonathan Ingram",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 36,
+        "local_rank": 71,
+        "phq_attendance": 204,
+        "entities": [
+            {
+                "entity_id": "34y3tse4xDExG2Ai6MFWprU",
+                "name": "Pig Tales Lake Lanier",
+                "type": "venue",
+                "formatted_address": "6800 Lights Ferry Rd, Flowery Branch, GA 30542, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-29T21:00:00Z",
+        "start_local": "2025-06-29T17:00:00",
+        "end": "2025-06-29T21:00:00Z",
+        "end_local": "2025-06-29T17:00:00",
+        "predicted_end": "2025-06-30T01:10:00Z",
+        "predicted_end_local": "2025-06-29T21:10:00",
+        "updated": "2025-06-04T07:36:50Z",
+        "first_seen": "2025-06-01T03:06:38Z",
+        "timezone": "America/New_York",
+        "location": [
+            -83.970435,
+            34.203477
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -83.970435,
+                    34.203477
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzy-223@8gb-q5d-qvf",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "6800 Lights Ferry Rd, Flowery Branch, GA 30542, USA",
+                "postcode": "30542",
+                "locality": "Flowery Branch",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 204,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 204,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 204,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198821",
+                "4206479"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3885,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2464,
+            "transportation": 1421
+        },
+        "time_str": "Sunday, June 29 at 05:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "4rQyyis2CkLRPRkZHQ",
+        "title": "123 Andres",
+        "alternate_titles": [
+            "123 Andrés"
+        ],
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 36,
+        "local_rank": 63,
+        "phq_attendance": 189,
+        "entities": [],
+        "duration": 0,
+        "start": "2025-06-29T19:00:00Z",
+        "start_local": "2025-06-29T15:00:00",
+        "end": "2025-06-29T19:00:00Z",
+        "end_local": "2025-06-29T15:00:00",
+        "updated": "2025-06-22T03:27:28Z",
+        "first_seen": "2025-06-01T01:27:05Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.35758,
+            34.02361
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.35758,
+                    34.02361
+                ],
+                "type": "Point"
+            },
+            "placekey": "1y7qlj3khc@8g6-ypz-qpv",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Forrest Street, Roswell, GA 30075, United States of America",
+                "locality": "Roswell",
+                "postcode": "30075",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 189,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 189,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 189,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4219934"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4188547",
+                "4207783"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3679,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2180,
+            "transportation": 1498
+        },
+        "time_str": "Sunday, June 29 at 03:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "68AnptZFCF7ymu8KEN",
+        "title": "Youth Basketball - SHOWCASE OF CHAMPIONS",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 36,
+        "local_rank": 68,
+        "phq_attendance": 195,
+        "entities": [
+            {
+                "entity_id": "39UBAXMzupiKUJCR5SbDq7U",
+                "name": "Dobbs Creek Recreation Center",
+                "type": "venue",
+                "formatted_address": "1115 Dahlonega Hwy, Cumming, GA 30040, USA"
+            }
+        ],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-05-28T02:13:50Z",
+        "first_seen": "2024-10-22T01:37:42Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.1281831,
+            34.2322539
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.1281831,
+                    34.2322539
+                ],
+                "type": "Point"
+            },
+            "placekey": "222-222@8gb-px2-f75",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "1115 Dahlonega Hwy, Cumming, GA 30040, USA",
+                "postcode": "30040",
+                "locality": "Cumming",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 61,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 73,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 61,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 61,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 73,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 61,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 61,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 73,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 61,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4192354"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 3714,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 2355,
+            "transportation": 1358
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "FH8rwHQ6NgRh2n85ny",
+        "title": "Roswell Riverside Sounds featuring ¡Tumbao!",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 39,
+        "local_rank": 62,
+        "phq_attendance": 268,
+        "entities": [
+            {
+                "entity_id": "E8Cd8Xsjv9hRnfMfgkKUjx",
+                "name": "Riverside Park",
+                "type": "venue",
+                "formatted_address": "Riverside Park, 575 Riverside Rd, Roswell, GA 30075, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-28T23:30:00Z",
+        "start_local": "2025-06-28T19:30:00",
+        "end": "2025-06-28T23:30:00Z",
+        "end_local": "2025-06-28T19:30:00",
+        "updated": "2025-06-15T01:55:57Z",
+        "first_seen": "2025-06-15T01:44:59Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.3467344,
+            34.006455
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.3467344,
+                    34.006455
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzz-222@8g6-y4b-5vf",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Riverside Park, 575 Riverside Rd, Roswell, GA 30075, USA",
+                "postcode": "30075",
+                "locality": "Roswell",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 268,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 268,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 268,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4219934"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4188547",
+                "4207783"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 5217,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 3092,
+            "transportation": 2124
+        },
+        "time_str": "Saturday, June 28 at 07:30 PM"
+    },
+    {
+        "relevance": null,
+        "id": "FUZDJ7hJY4kHL8dL8F",
+        "title": "The Linda Ronstadt Experience with American Idol Star Tristan Mcintosh",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 39,
+        "local_rank": 67,
+        "phq_attendance": 272,
+        "entities": [
+            {
+                "entity_id": "eb7uMRiapfWZZYkNfji3i6",
+                "name": "The Linda Ronstadt Experience With American Idol Star Tristan McIntosh",
+                "type": "organization"
+            },
+            {
+                "entity_id": "piNRnpsizGW4hAebwyNfTB",
+                "name": "Red Clay Music Foundry",
+                "type": "venue",
+                "formatted_address": "3116 Main St, Duluth, GA 30096, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-27T00:00:00Z",
+        "start_local": "2025-06-26T20:00:00",
+        "end": "2025-06-27T00:00:00Z",
+        "end_local": "2025-06-26T20:00:00",
+        "predicted_end": "2025-06-27T04:10:00Z",
+        "predicted_end_local": "2025-06-27T00:10:00",
+        "updated": "2025-06-04T04:20:53Z",
+        "first_seen": "2025-03-01T21:57:22Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.1450025,
+            34.0024549
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.1450025,
+                    34.0024549
+                ],
+                "type": "Point"
+            },
+            "placekey": "zzw-222@8g6-ycf-g49",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "3116 Main St, Duluth, GA 30096, USA",
+                "postcode": "30096",
+                "locality": "Duluth",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 272,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 272,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 272,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4192289"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 5603,
+        "predicted_event_spend_industries": {
+            "accommodation": 0,
+            "hospitality": 3398,
+            "transportation": 2205
+        },
+        "phq_labels": [
+            {
+                "label": "rock",
+                "weight": 1.0
+            }
+        ],
+        "time_str": "Thursday, June 26 at 08:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "4ZTbGbgtmggK9SLsEH",
+        "title": "Madewell",
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 41,
+        "local_rank": 67,
+        "phq_attendance": 349,
+        "entities": [
+            {
+                "entity_id": "32C6bAii3RrXxyR9sCPHVrD",
+                "name": "Alpharetta Raider Stadium",
+                "type": "venue",
+                "formatted_address": "776 Adler Ct, Alpharetta, GA 30005, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-26T00:00:00Z",
+        "start_local": "2025-06-25T20:00:00",
+        "end": "2025-06-26T00:00:00Z",
+        "end_local": "2025-06-25T20:00:00",
+        "predicted_end": "2025-06-26T04:10:00Z",
+        "predicted_end_local": "2025-06-26T00:10:00",
+        "updated": "2025-06-22T00:37:57Z",
+        "first_seen": "2025-06-22T00:20:25Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.2559662,
+            34.0782318
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.2559662,
+                    34.0782318
+                ],
+                "type": "Point"
+            },
+            "placekey": "1caniukcam@8g6-y3v-gzf",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "776 Adler Ct, Alpharetta, GA 30005, USA",
+                "postcode": "30005",
+                "locality": "Alpharetta",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 349,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-24",
+                        "value": 53,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 349,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 11,
+                        "position": "lagging"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 349,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4229855"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 10639,
+        "predicted_event_spend_industries": {
+            "accommodation": 2329,
+            "hospitality": 5270,
+            "transportation": 3039
+        },
+        "time_str": "Wednesday, June 25 at 08:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "7LvpXZ4wArzYSXexmr",
+        "title": "Youth Basketball - Hello Summer",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 42,
+        "local_rank": 73,
+        "phq_attendance": 385,
+        "entities": [],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-06-25T01:24:35Z",
+        "first_seen": "2025-06-24T03:53:20Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.2139641,
+            34.2101936
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.2139641,
+                    34.2101936
+                ],
+                "type": "Point"
+            },
+            "placekey": "0irxow4zif@8g6-yg9-nbk",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "Drew Road, Cumming, GA 30040, United States of America",
+                "locality": "Cumming",
+                "postcode": "30040",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 120,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 144,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 120,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 14,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 120,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 144,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 120,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 120,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 144,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 120,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4192067"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 13198,
+        "predicted_event_spend_industries": {
+            "accommodation": 4055,
+            "hospitality": 5799,
+            "transportation": 3343
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "4JYXAx4nKYB5QmpgBV",
+        "title": "Youth Basketball - 15th Annual D1 All Star National Championships@ Norcross HS",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 44,
+        "local_rank": 72,
+        "phq_attendance": 525,
+        "entities": [
+            {
+                "entity_id": "jNCCEkf2KCbnpX4KZNV4YU",
+                "name": "Norcross High School",
+                "type": "venue",
+                "formatted_address": "5300 Spalding Dr, Norcross, GA 30092, USA"
+            }
+        ],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-06-25T05:49:48Z",
+        "first_seen": "2025-01-29T17:18:51Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.2121124,
+            33.9672279
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.2121124,
+                    33.9672279
+                ],
+                "type": "Point"
+            },
+            "placekey": "222-222@8g6-ysq-bx5",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "5300 Spalding Dr, Norcross, GA 30092, USA",
+                "postcode": "30092",
+                "locality": "Norcross",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 164,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 197,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 164,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 19,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 164,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 197,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 164,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 164,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 197,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 164,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4215114"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 19064,
+        "predicted_event_spend_industries": {
+            "accommodation": 5544,
+            "hospitality": 8198,
+            "transportation": 5320
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "GRiqsVGdSLH4yfbrgM",
+        "title": "Youth Basketball - Hello Summer",
+        "description": "Sourced from predicthq.com",
+        "category": "sports",
+        "rank": 45,
+        "local_rank": 72,
+        "phq_attendance": 577,
+        "entities": [
+            {
+                "entity_id": "YjfLLvvrFm6bq4BDk88wG7",
+                "name": "Collins Hill High School",
+                "type": "venue",
+                "formatted_address": "50 Taylor Rd, Suwanee, GA 30024, USA"
+            }
+        ],
+        "duration": 259199,
+        "start": "2025-06-27T04:00:00Z",
+        "start_local": "2025-06-27T00:00:00",
+        "end": "2025-06-30T03:59:59Z",
+        "end_local": "2025-06-29T23:59:59",
+        "updated": "2025-06-24T22:54:03Z",
+        "first_seen": "2025-06-24T02:06:16Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.0200809,
+            34.0155506
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.0200809,
+                    34.0155506
+                ],
+                "type": "Point"
+            },
+            "placekey": "222-222@8g7-2mn-gc5",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "50 Taylor Rd, Suwanee, GA 30024, USA",
+                "postcode": "30024",
+                "locality": "Suwanee",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 180,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 216,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 180,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 20,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 180,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 216,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 180,
+                        "position": "event_day"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 180,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 216,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 180,
+                        "position": "event_day"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4213663"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4198645",
+                "4205196"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 20916,
+        "predicted_event_spend_industries": {
+            "accommodation": 6083,
+            "hospitality": 8995,
+            "transportation": 5837
+        },
+        "phq_labels": [
+            {
+                "label": "basketball",
+                "weight": 0.5
+            },
+            {
+                "label": "youth-sport",
+                "weight": 0.5
+            }
+        ],
+        "time_str": "Friday, June 27 at 12:00 AM"
+    },
+    {
+        "relevance": null,
+        "id": "AhTMopnawaomVj6Whe",
+        "title": "Kidz Bop",
+        "alternate_titles": [
+            "KIDZ BOP LIVE Certified BOP Tour",
+            "Kidz Bop Kids"
+        ],
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 66,
+        "local_rank": 93,
+        "phq_attendance": 6238,
+        "entities": [
+            {
+                "entity_id": "bPSxbyBxFtTh4WWWpHHzFA",
+                "name": "Kidz Bop",
+                "type": "organization"
+            },
+            {
+                "entity_id": "VubJFzNSbxESeLidUtedNC",
+                "name": "Ameris Bank Amphitheatre at Encore Park",
+                "type": "venue",
+                "formatted_address": "2200 Encore Pkwy, Alpharetta, GA 30009, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-28T22:00:00Z",
+        "start_local": "2025-06-28T18:00:00",
+        "end": "2025-06-28T22:00:00Z",
+        "end_local": "2025-06-28T18:00:00",
+        "predicted_end": "2025-06-29T02:10:00Z",
+        "predicted_end_local": "2025-06-28T22:10:00",
+        "updated": "2025-06-24T13:50:50Z",
+        "first_seen": "2025-02-10T18:30:52Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.3066068,
+            34.054603
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.3066068,
+                    34.054603
+                ],
+                "type": "Point"
+            },
+            "placekey": "222-223@8g6-y2m-dsq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "2200 Encore Pkwy, Alpharetta, GA 30009, USA",
+                "postcode": "30009",
+                "locality": "Alpharetta",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 1248,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 6238,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 624,
+                        "position": "lagging"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 125,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 1560,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 6238,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 188,
+                        "position": "lagging"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 6238,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-29",
+                        "value": 1872,
+                        "position": "lagging"
+                    },
+                    {
+                        "date_local": "2025-06-30",
+                        "value": 1872,
+                        "position": "lagging"
+                    },
+                    {
+                        "date_local": "2025-07-01",
+                        "value": 624,
+                        "position": "lagging"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4179574"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 406458,
+        "predicted_event_spend_industries": {
+            "accommodation": 89226,
+            "hospitality": 244942,
+            "transportation": 72289
+        },
+        "phq_labels": [
+            {
+                "label": "pop",
+                "weight": 1.0
+            }
+        ],
+        "time_str": "Saturday, June 28 at 06:00 PM"
+    },
+    {
+        "relevance": null,
+        "id": "ByNPnMNGEYqvfU9zkd",
+        "title": "Dave Matthews Band",
+        "alternate_titles": [
+            "Dave Matthews Band at Ameris Bank Amphitheatre"
+        ],
+        "description": "Sourced from predicthq.com",
+        "category": "concerts",
+        "rank": 70,
+        "local_rank": 98,
+        "phq_attendance": 10159,
+        "entities": [
+            {
+                "entity_id": "dvpWbUGAfTtMzMQxFkP6MJ",
+                "name": "Dave Matthews Band",
+                "type": "organization"
+            },
+            {
+                "entity_id": "VubJFzNSbxESeLidUtedNC",
+                "name": "Ameris Bank Amphitheatre at Encore Park",
+                "type": "venue",
+                "formatted_address": "2200 Encore Pkwy, Alpharetta, GA 30009, USA"
+            }
+        ],
+        "duration": 0,
+        "start": "2025-06-25T23:30:00Z",
+        "start_local": "2025-06-25T19:30:00",
+        "end": "2025-06-25T23:30:00Z",
+        "end_local": "2025-06-25T19:30:00",
+        "predicted_end": "2025-06-26T03:40:00Z",
+        "predicted_end_local": "2025-06-25T23:40:00",
+        "updated": "2025-06-25T07:35:55Z",
+        "first_seen": "2025-01-28T19:05:43Z",
+        "timezone": "America/New_York",
+        "location": [
+            -84.3066068,
+            34.054603
+        ],
+        "geo": {
+            "geometry": {
+                "coordinates": [
+                    -84.3066068,
+                    34.054603
+                ],
+                "type": "Point"
+            },
+            "placekey": "222-223@8g6-y2m-dsq",
+            "address": {
+                "country_code": "US",
+                "formatted_address": "2200 Encore Pkwy, Alpharetta, GA 30009, USA",
+                "postcode": "30009",
+                "locality": "Alpharetta",
+                "region": "Georgia"
+            }
+        },
+        "impact_patterns": [
+            {
+                "vertical": "accommodation",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-24",
+                        "value": 2032,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 10159,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 1016,
+                        "position": "lagging"
+                    }
+                ]
+            },
+            {
+                "vertical": "hospitality",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-23",
+                        "value": 204,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-24",
+                        "value": 2540,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 10159,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 305,
+                        "position": "lagging"
+                    }
+                ]
+            },
+            {
+                "vertical": "retail",
+                "impact_type": "phq_attendance",
+                "impacts": [
+                    {
+                        "date_local": "2025-06-22",
+                        "value": 2032,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-23",
+                        "value": 2540,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-24",
+                        "value": 3048,
+                        "position": "leading"
+                    },
+                    {
+                        "date_local": "2025-06-25",
+                        "value": 10159,
+                        "position": "event_day"
+                    },
+                    {
+                        "date_local": "2025-06-26",
+                        "value": 3048,
+                        "position": "lagging"
+                    },
+                    {
+                        "date_local": "2025-06-27",
+                        "value": 3048,
+                        "position": "lagging"
+                    },
+                    {
+                        "date_local": "2025-06-28",
+                        "value": 2540,
+                        "position": "lagging"
+                    }
+                ]
+            }
+        ],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4196508",
+                "4179574"
+            ],
+            [
+                "6295630",
+                "6255149",
+                "6252001",
+                "4197000",
+                "4195777",
+                "4190396"
+            ]
+        ],
+        "state": "active",
+        "brand_safe": true,
+        "private": false,
+        "predicted_event_spend": 661945,
+        "predicted_event_spend_industries": {
+            "accommodation": 145310,
+            "hospitality": 398905,
+            "transportation": 117728
+        },
+        "phq_labels": [
+            {
+                "label": "rock",
+                "weight": 0.69
+            },
+            {
+                "label": "pop",
+                "weight": 0.31
+            }
+        ],
+        "time_str": "Wednesday, June 25 at 07:30 PM"
+    }
+]

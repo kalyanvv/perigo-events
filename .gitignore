@@ -1,0 +1,35 @@
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Generated data and output files
+events_data/
+fallback_events/
+output/
+all_events.json
+ticketed_events.json
+*.log
+*.wav
+*.mp3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp

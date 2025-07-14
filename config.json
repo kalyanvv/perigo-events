@@ -1,0 +1,87 @@
+{
+  "api": {
+      "predicthq": {
+          "base_url": "https://api.predicthq.com/v1/events/",
+          "token": "JGNXajrH5WPQpX4C0ONabL-h7HJvziUmCfuyPt60",
+          "categories": "community,concerts,sports,festivals,academic,performing-arts,conferences,expos,school-holidays,severe-weather",
+          "use_all_categories": false
+      },
+      "deepseek": {
+          "api_key": "sk-6b382886a6494b4ebe20cc1248ff2b0c",
+          "base_url": "https://api.deepseek.com/v1",
+          "model": "deepseek-chat"
+      },
+      "ollama": {
+          "model": "llama3:latest",
+          "timeout": 90
+      },
+      "ticketmaster": {
+          "api_key": "bx55gcWUoghG8SERZGeZv5JpgzMP5nzl"
+      },
+      "tomorrow_io": {
+          "api_key": "uD7Kj8zQjqHX593zdESMgayw6PdwsMjQ",
+          "check_interval": 300
+      }
+  },
+  "location": {
+      "default_city": "Miami",
+      "default_state": "FL",
+      "default_coords": [25.7617, -80.1918],
+      "default_radius": "30km",
+      "max_radius": "60km",
+      "force_default": false
+  },
+  "story_generation": {
+      "provider": "deepseek",
+      "timeout": 30,
+      "max_tokens": 150,
+      "temperature": 0.2,
+      "quality_filters": {
+          "max_length_seconds": 15,
+          "forbidden_phrases": ["don't miss", "check out", "amazing", "great", "wonderful", "exciting", "calendar", "website", "sourced from"],
+          "required_format": "factual_announcement"
+      }
+  },
+  "story": {
+      "max_events": 2,
+      "fallback_file": "fallback_events.json",
+      "event_sort": "rank"
+  },
+  "audio": {
+      "default_voice": "en-US-AriaNeural",
+      "speech_rate": "+10%",
+      "pitch": "0Hz",
+      "volume": "+5%",
+      "style": "newscast"
+  },
+  "features": {
+      "include_weather": true,
+      "include_attendance": true,
+      "include_economic_impact": true,
+      "weather_alerts": {
+          "enabled": true,
+          "provider": "tomorrow_io",
+          "severity_filter": ["severe", "extreme"]
+      }
+  },
+  "time_frame": {
+      "enabled": true,
+      "force_custom": true,
+      "start_date": "2025-07-02",
+      "end_date": "2025-07-15",
+      "fallback_to_default": false
+  },
+  "event_selection": {
+      "weights": {
+          "rank": 0.6,
+          "attendance": 0.3,
+          "urgency": 0.4
+      },
+      "category_boosts": {
+          "concerts": 1.3,
+          "festivals": 1.2,
+          "sports": 1.1,
+          "community": 1.0
+      }
+  }
+}

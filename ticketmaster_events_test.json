@@ -1,0 +1,2472 @@
+{
+  "location": {
+    "city": "Cumming",
+    "state": "GA",
+    "coordinates": [
+      34.2073,
+      -84.1402
+    ],
+    "full_address": "Tribble Gap Road, Cumming, Forsyth County, Georgia, 30040, United States"
+  },
+  "fetch_timestamp": "null",
+  "total_categories": 5,
+  "events_by_category": {
+    "concerts": [
+      {
+        "name": "Beyoncé: COWBOY CARTER TOUR",
+        "date": "2025-07-10",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-atlanta-georgia-07-10-2025/event/0E00619F8FC41551",
+        "info": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "pleaseNote": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "R&B",
+          "subGenre": "R&B"
+        }
+      },
+      {
+        "name": "Handcrafted / Sparrow Blue / JOA",
+        "date": "2025-07-10",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/handcrafted-sparrow-blue-joa-atlanta-georgia-07-10-2025/event/0E006296C41D452F",
+        "info": "",
+        "pleaseNote": "All sales are final/non-refundable for this event. For ADA Accommodations, email info@rivalentertainment.com. For parking information and an FAQ, visit us at centerstage-atlanta.com.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Vinyl",
+          "address": "1374 West Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Pop"
+        }
+      },
+      {
+        "name": "Bop To The Top (All Ages)",
+        "date": "2025-07-10",
+        "time": "20:30:00",
+        "url": "https://www.ticketmaster.com/bop-to-the-top-all-ages-atlanta-georgia-07-10-2025/event/0E0062D9CBAE5907",
+        "info": "This is an all ages event. Doors at 8:00 PM. Show at 8:30 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "pleaseNote": "This is an all ages event. Doors at 8:00 PM. Show at 8:30 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Buckhead Theatre",
+          "address": "3110 Roswell Rd",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30305"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Dance/Electronic",
+          "subGenre": "Witchstep"
+        }
+      },
+      {
+        "name": "The Wild Flowers",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7bP-0",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "MadLife Stage and Studios",
+          "address": "8722 Main St",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Alternative",
+          "subGenre": "Alternative Rock"
+        }
+      },
+      {
+        "name": "Zeta",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/zeta-atlanta-georgia-07-11-2025/event/0E0062B3A7C623AC",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade  - Altar",
+          "address": "50 Lower Alabama Street",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Punk"
+        }
+      },
+      {
+        "name": "Bashfortheworld: The Migo in America Tour",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/bashfortheworld-the-migo-in-america-tour-atlanta-georgia-07-11-2025/event/0E00628AB7C03DE8",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Purgatory",
+          "address": "92 Pryor Street SW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Hip-Hop/Rap",
+          "subGenre": "French Rap"
+        }
+      },
+      {
+        "name": "Beyoncé: COWBOY CARTER TOUR",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-atlanta-georgia-07-11-2025/event/0E00623EEAB359D1",
+        "info": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "pleaseNote": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "R&B",
+          "subGenre": "R&B"
+        }
+      },
+      {
+        "name": "Brad Williams",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7uwQ8",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Classic Center Theatre",
+          "address": "300 N. Thomas St.",
+          "city": "Athens",
+          "state": "GA",
+          "postalCode": "30601"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Other",
+          "subGenre": "Other"
+        }
+      },
+      {
+        "name": "High Tolerance Ent. Presents: Hurricane Wisdom",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/high-tolerance-ent-presents-hurricane-wisdom-atlanta-georgia-07-11-2025/event/0E0062A5D9DE50AD",
+        "info": "Originally scheduled for Jun 14 2025 @8:00pm. Previously purchased tickets will be honored for the new date. The venue for this event has changed from Center Stage Theater to Vinyl.",
+        "pleaseNote": "Originally scheduled for Jun 14 2025 @8:00pm. Previously purchased tickets will be honored for the new date. The venue for this event has changed from Center Stage Theater to Vinyl.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Vinyl",
+          "address": "1374 West Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Hip-Hop/Rap",
+          "subGenre": "French Rap"
+        }
+      },
+      {
+        "name": "Diana Krall",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/diana-krall-atlanta-georgia-07-11-2025/event/0E00616FA6BB26C0",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Atlanta Symphony Hall",
+          "address": "1280 Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Jazz",
+          "subGenre": "Jazz"
+        }
+      },
+      {
+        "name": "GHOST: Skeletour World Tour 2025 ",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/ghost-skeletour-world-tour-2025-atlanta-georgia-07-11-2025/event/0E006158AEAA67B0",
+        "info": "This show will be a phone-free experience. Phones will be secured in Yondr pouches. Guests maintain possession of their phones at all times.",
+        "pleaseNote": "This show will be a phone-free experience. Use of cellphones, cameras, or recording devices will not be permitted in the performance space. Upon arrival at the venue, all phones will be secured in Yondr pouches that will be opened at the end of the event. Guests maintain possession of their phones at all times and can access their phones throughout the event at designated Phone Use Area in the venue. All phones will be re-secured in Yondr pouches before returning to the event space. Anyone seen using a cellphone during the performance will be escorted out of the venue. Guests are encouraged to bring a bank or credit card for purchases inside the venue. We appreciate your cooperation in creating a phone-free viewing experience.",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "One State Farm Drive",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Metal",
+          "subGenre": "Nu-Metal"
+        }
+      },
+      {
+        "name": "3BallMTY",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/3ballmty-atlanta-georgia-07-11-2025/event/0E006263D2A02874",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 8:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com The venue for this event has changed from Hell to Heaven.",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Heaven",
+          "address": "Kenny's Alley @ Underground Atlanta",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Latin",
+          "subGenre": "Latin"
+        }
+      },
+      {
+        "name": "Bop To The Top (18+)",
+        "date": "2025-07-11",
+        "time": "21:00:00",
+        "url": "https://www.ticketmaster.com/bop-to-the-top-18-atlanta-georgia-07-11-2025/event/0E0062B03B957395",
+        "info": "This is an 18 & over event. Doors at 8:30 PM. Show at 9:00 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "pleaseNote": "This is an 18 & over event. Doors at 8:30 PM. Show at 9:00 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Buckhead Theatre",
+          "address": "3110 Roswell Rd",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30305"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Dance/Electronic",
+          "subGenre": "Witchstep"
+        }
+      },
+      {
+        "name": "Wetouchgrass Presents: Anime Rave | 21+",
+        "date": "2025-07-11",
+        "time": "21:00:00",
+        "url": "https://www.ticketmaster.com/wetouchgrass-presents-anime-rave-21-atlanta-georgia-07-11-2025/event/0E0062C2C57F34C0",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 9:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "This event is 21+",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Hell",
+          "address": "92 Pryor Street SW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Dance/Electronic",
+          "subGenre": "Witchstep"
+        }
+      },
+      {
+        "name": "The Wildflowers",
+        "date": "2025-07-11",
+        "time": "21:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7bPCb",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "MadLife Stage and Studios",
+          "address": "8722 Main St",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Other",
+          "subGenre": "Other"
+        }
+      },
+      {
+        "name": "Bug Hunter / The Narcissist Cookbook",
+        "date": "2025-07-12",
+        "time": "18:30:00",
+        "url": "https://www.ticketmaster.com/bug-hunter-the-narcissist-cookbook-atlanta-georgia-07-12-2025/event/0E006252A4C42C22",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 6:30 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Purgatory",
+          "address": "92 Pryor Street SW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Alternative Rock"
+        }
+      },
+      {
+        "name": "Big Time Rush: In Real Life Worldwide",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/big-time-rush-in-real-life-alpharetta-georgia-07-12-2025/event/0E006251991A2C9A",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Ameris Bank Amphitheatre",
+          "address": "2200 Encore Parkway",
+          "city": "Alpharetta",
+          "state": "GA",
+          "postalCode": "30009"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Pop"
+        }
+      },
+      {
+        "name": "MSPAINT",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/mspaint-atlanta-georgia-07-12-2025/event/0E00629CBDA444C9",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade  - Altar",
+          "address": "50 Lower Alabama Street",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Punk"
+        }
+      },
+      {
+        "name": "The Warning: Keep Me Fed Tour",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/the-warning-keep-me-fed-tour-atlanta-georgia-07-12-2025/event/0E0060AF99CF2E4B",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. This event is now taking place in the Heaven venue. The Masquerade is now proud to be serving food. Check our socials for the food window?s schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Heaven",
+          "address": "Kenny's Alley @ Underground Atlanta",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Alternative Rock"
+        }
+      },
+      {
+        "name": "An Evening with Will Downing and guests Najee & Ken Ford",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/an-evening-with-will-downing-and-mableton-georgia-07-12-2025/event/0E00624FBD765470",
+        "info": "An Evening with Will Downing and guests Najee & Ken Ford Show Time: 7:00 PM Doors: 6:00 PM",
+        "pleaseNote": "RAIN OR SHINE EVENT",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mable House Barnes Amphitheatre",
+          "address": "5239 Floyd Road",
+          "city": "Mableton",
+          "state": "GA",
+          "postalCode": "30126"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "R&B",
+          "subGenre": "Soul"
+        }
+      }
+    ],
+    "sports": [
+      {
+        "name": "HBCU Swingman Classic",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/hbcu-swingman-classic-atlanta-georgia-07-11-2025/event/0E00623DDCCD54FA",
+        "info": "",
+        "pleaseNote": "Ticket holder assumes all risk of injury from balls and bats entering the stands. For more information on which seating sections have netting or screening in front of them, please visit braves.com/netting. If you purchase tickets, you may receive customer service messages via email from the Atlanta Braves, including optional surveys regarding your baseball experience. Delivery and transfer will be delayed until 30 days prior to the event.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "Capital One All-Star Village",
+        "date": "2025-07-12",
+        "time": "TBD",
+        "url": "https://www.ticketmaster.com/capital-one-allstar-village-atlanta-georgia-07-12-2025/event/0E00628FF3AE5098",
+        "info": "",
+        "pleaseNote": "Delivery and Transfer will be delayed until approximately 66 days prior to the event.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Galleria Centre",
+          "address": "Two Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "WWE 2-Day Saturday Night's Main Event & Evolution Combo Event Ticket",
+        "date": "2025-07-12",
+        "time": "TBD",
+        "url": "https://www.ticketmaster.com/wwe-2day-saturday-nights-main-event-atlanta-georgia-07-12-2025/event/0E0062A8E1F8625B",
+        "info": "WWE 2-Day Ticket (7/12-7/13) Valid Both Days, Cannot Split",
+        "pleaseNote": "Tickets Purchased for each event in the first 5 rows of Floor Sections, 1, 2, 3, 4, 6, & 7 will sit in one commemorative during the event and will be able to take one chair home at the event with a valid ticket for that seat.",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "One State Farm Drive",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Wrestling",
+          "subGenre": "Wrestling"
+        }
+      },
+      {
+        "name": "WWE Great American Bash",
+        "date": "2025-07-12",
+        "time": "14:30:00",
+        "url": "https://www.ticketmaster.com/wwe-great-american-bash-atlanta-georgia-07-12-2025/event/0E0062C3E17458A2",
+        "info": "WWE Presents: WWE GREAT AMERICAN BASH July 12, 2025 | Center Stage Theater | General Admission | All Ages For ADA Accommodations, email info@rivalentertainment.com. For parking information and an FAQ, visit us at centerstage-atlanta.com.",
+        "pleaseNote": "All sales are final/non-refundable for this event. For ADA Accommodations, email info@rivalentertainment.com. For parking information and an FAQ, visit us at centerstage-atlanta.com.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Center Stage Theater",
+          "address": "1374 W Peachtree St. NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Wrestling",
+          "subGenre": "Wrestling"
+        }
+      },
+      {
+        "name": "2025 MLB All-Star Saturday: Futures Game; Celebrity Softball Game",
+        "date": "2025-07-12",
+        "time": "16:00:00",
+        "url": "https://www.ticketmaster.com/2025-mlb-allstar-saturday-futures-game-atlanta-georgia-07-12-2025/event/0E00629B49035998",
+        "info": "",
+        "pleaseNote": "Ticket holder assumes all risk of injury from balls and bats entering the stands. For more information on which seating sections have netting or screening in front of them, please visit braves.com/netting. If you purchase tickets, you may receive customer service messages via email from the Atlanta Braves, including optional surveys regarding your baseball experience.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "WWE Saturday Night's Main Event",
+        "date": "2025-07-12",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/wwe-saturday-nights-main-event-atlanta-georgia-07-12-2025/event/0E0062A8E1F46255",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "One State Farm Drive",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Wrestling",
+          "subGenre": "Wrestling"
+        }
+      },
+      {
+        "name": "Capital One All-Star Village",
+        "date": "2025-07-13",
+        "time": "TBD",
+        "url": "https://www.ticketmaster.com/capital-one-allstar-village-atlanta-georgia-07-13-2025/event/0E00628FF3B0509E",
+        "info": "",
+        "pleaseNote": "Delivery and Transfer will be delayed until approximately 66 days prior to the event.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Galleria Centre",
+          "address": "Two Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "WWE Evolution Premium Live Event",
+        "date": "2025-07-13",
+        "time": "18:30:00",
+        "url": "https://www.ticketmaster.com/wwe-evolution-premium-live-event-atlanta-georgia-07-13-2025/event/0E0062A8E1F66258",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "One State Farm Drive",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Wrestling",
+          "subGenre": "Wrestling"
+        }
+      },
+      {
+        "name": "Capital One All-Star Village",
+        "date": "2025-07-14",
+        "time": "TBD",
+        "url": "https://www.ticketmaster.com/capital-one-allstar-village-atlanta-georgia-07-14-2025/event/0E00628FF3B350A1",
+        "info": "",
+        "pleaseNote": "Delivery and Transfer will be delayed until approximately 66 days prior to the event.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Galleria Centre",
+          "address": "Two Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "2025 MLB All-Star Workout Day: Home Run Derby",
+        "date": "2025-07-14",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/2025-mlb-allstar-workout-day-home-atlanta-georgia-07-14-2025/event/0E00629B4906599A",
+        "info": "",
+        "pleaseNote": "Ticket holder assumes all risk of injury from balls and bats entering the stands. For more information on which seating sections have netting or screening in front of them, please visit braves.com/netting. If you purchase tickets, you may receive customer service messages via email from the Atlanta Braves, including optional surveys regarding your baseball experience.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "Capital One All-Star Village",
+        "date": "2025-07-15",
+        "time": "TBD",
+        "url": "https://www.ticketmaster.com/capital-one-allstar-village-atlanta-georgia-07-15-2025/event/0E00628FF3B550A7",
+        "info": "",
+        "pleaseNote": "Delivery and Transfer will be delayed until approximately 66 days prior to the event.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Galleria Centre",
+          "address": "Two Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "95th MLB All-Star Game",
+        "date": "2025-07-15",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/95th-mlb-allstar-game-atlanta-georgia-07-15-2025/event/0E00629B490959A8",
+        "info": "",
+        "pleaseNote": "Ticket holder assumes all risk of injury from balls and bats entering the stands. For more information on which seating sections have netting or screening in front of them, please visit braves.com/netting. If you purchase tickets, you may receive customer service messages via email from the Atlanta Braves, including optional surveys regarding your baseball experience.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "Professional"
+        }
+      },
+      {
+        "name": "Atlanta United FC v Chicago Fire FC",
+        "date": "2025-07-16",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/atlanta-united-fc-v-chicago-fire-atlanta-georgia-07-16-2025/event/0E006192D5C539E1",
+        "info": "Please note Everyone needs a ticket for entry, except children shorter than 33 inches do not require a ticket. For quickest entry into the stadium, we strongly recommend that you do not bring a bag on event day. If a bag is necessary, the bag must adhere to our Clear Bag Policy: - Bags must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Bags cannot be tinted with color or include oversized content that prevents visibility into the clear bag. - Only non-clear bags that are smaller than 4.5 x 6.5 in will be permitted into the stadium. - Any type of non-clear bag exceeding 4.5 x 6.5 in size will not be permitted.",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Soccer",
+          "subGenre": "MLS"
+        }
+      },
+      {
+        "name": "Tours: Truist Park",
+        "date": "2025-07-18",
+        "time": "TBD",
+        "url": "https://www.ticketmaster.com/tours-truist-park-atlanta-georgia-07-18-2025/event/0E006253964A33FF",
+        "info": "",
+        "pleaseNote": "Tours begin based on the following schedule: In-Season (April-September/Playoffs) Monday - Saturday : 10:00am, 11:00am, 12:00pm,1:00pm, 2:00pm Sundays: 1:00pm, 3:00pm Off-Season (Oct-Mar) Mon-Sat: 10:00am, 12:00pm, 2:00pm Tours are 90 minutes in length. No Tours are given if a day game is being played. Please be sure to not only select the correct number and types of tickets, but also the time you want to attend.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "Gwinnett Stripers v. Jacksonville Jumbo Shrimp",
+        "date": "2025-07-18",
+        "time": "19:05:00",
+        "url": "https://www.ticketmaster.com/gwinnett-stripers-v-jacksonville-jumbo-shrimp-lawrenceville-georgia-07-18-2025/event/0E00623DC8744E6E",
+        "info": "You are permitted to bring a small, clear bag inside the stadium for Gwinnett Stripers games. Coolray Field is a cashless venue. All major credit cards are accepted. All gates open one (1) hour prior to game time but are subject to change. Fans are encouraged to come out to Coolray Field early and enjoy pre-game festivities and ceremonies. All game details are subject to change.",
+        "pleaseNote": "For groups of 10 or more please call (678) 277-0340.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Coolray Field",
+          "address": "One Braves Avenue",
+          "city": "Lawrenceville",
+          "state": "GA",
+          "postalCode": "30049"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "Minor League"
+        }
+      },
+      {
+        "name": "Atlanta Braves vs. New York Yankees",
+        "date": "2025-07-18",
+        "time": "19:15:00",
+        "url": "https://www.ticketmaster.com/atlanta-braves-vs-new-york-yankees-atlanta-georgia-07-18-2025/event/0E00615C213055FC",
+        "info": "",
+        "pleaseNote": "Ticket holder assumes all risk of injury from balls and bats entering the stands. For more information on which seating sections have netting or screening in front of them, please visit braves.com/netting. Delivery and Transfer will be delayed until 15 days prior to the game. If you purchase tickets, you may receive customer service messages via email from the Atlanta Braves, including optional surveys regarding your baseball experience.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "Tours: Truist Park",
+        "date": "2025-07-19",
+        "time": "TBD",
+        "url": "https://www.ticketmaster.com/tours-truist-park-atlanta-georgia-07-19-2025/event/0E006253964C340D",
+        "info": "",
+        "pleaseNote": "Tours begin based on the following schedule: In-Season (April-September/Playoffs) Monday - Saturday : 10:00am, 11:00am, 12:00pm,1:00pm, 2:00pm Sundays: 1:00pm, 3:00pm Off-Season (Oct-Mar) Mon-Sat: 10:00am, 12:00pm, 2:00pm Tours are 90 minutes in length. No Tours are given if a day game is being played. Please be sure to not only select the correct number and types of tickets, but also the time you want to attend.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "Gwinnett Stripers v. Jacksonville Jumbo Shrimp",
+        "date": "2025-07-19",
+        "time": "18:05:00",
+        "url": "https://www.ticketmaster.com/gwinnett-stripers-v-jacksonville-jumbo-shrimp-lawrenceville-georgia-07-19-2025/event/0E00623DC8764E73",
+        "info": "You are permitted to bring a small, clear bag inside the stadium for Gwinnett Stripers games. Coolray Field is a cashless venue. All major credit cards are accepted. All gates open ninety (90) minutes prior to game time but are subject to change. Fans are encouraged to come out to Coolray Field early and enjoy pre-game festivities and ceremonies. All game details are subject to change.",
+        "pleaseNote": "For groups of 10 or more please call (678) 277-0340.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Coolray Field",
+          "address": "One Braves Avenue",
+          "city": "Lawrenceville",
+          "state": "GA",
+          "postalCode": "30049"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "Minor League"
+        }
+      },
+      {
+        "name": "Atlanta Braves vs. New York Yankees",
+        "date": "2025-07-19",
+        "time": "19:15:00",
+        "url": "https://www.ticketmaster.com/atlanta-braves-vs-new-york-yankees-atlanta-georgia-07-19-2025/event/0E00615C21335606",
+        "info": "",
+        "pleaseNote": "Ticket holder assumes all risk of injury from balls and bats entering the stands. For more information on which seating sections have netting or screening in front of them, please visit braves.com/netting. Delivery and Transfer will be delayed until 15 days prior to the game. If you purchase tickets, you may receive customer service messages via email from the Atlanta Braves, including optional surveys regarding your baseball experience.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Baseball",
+          "subGenre": "MLB"
+        }
+      },
+      {
+        "name": "Atlanta United FC v Charlotte FC",
+        "date": "2025-07-19",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/atlanta-united-fc-v-charlotte-fc-atlanta-georgia-07-19-2025/event/0E006192D5C839EC",
+        "info": "Please note Everyone needs a ticket for entry, except children shorter than 33 inches do not require a ticket. For quickest entry into the stadium, we strongly recommend that you do not bring a bag on event day. If a bag is necessary, the bag must adhere to our Clear Bag Policy: - Bags must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Bags cannot be tinted with color or include oversized content that prevents visibility into the clear bag. - Only non-clear bags that are smaller than 4.5 x 6.5 in will be permitted into the stadium. - Any type of non-clear bag exceeding 4.5 x 6.5 in size will not be permitted.",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Sports",
+          "genre": "Soccer",
+          "subGenre": "MLS"
+        }
+      }
+    ],
+    "performing-arts": [
+      {
+        "name": "Brad Williams: The Growth Spurt Tour",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://classiccenter.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACCA%3ATH2425%3ABRA0711%3A&linkID=ta-cca&shopperContext=&pc=&caller=&appCode=&groupCode=HIDDEN&cgc=&dataAccId=873&locale=en_US&siteId=ev_ta-cca",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Classic Center Theatre",
+          "address": "300 N Thomas St",
+          "city": "Athens",
+          "state": "GA",
+          "postalCode": "30601"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Comedy",
+          "subGenre": "Comedy"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-11",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4uF",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-11",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp37",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-12",
+        "time": "14:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4ua",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-12",
+        "time": "14:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp3A",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-13",
+        "time": "17:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4u8",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-15",
+        "time": "10:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp3k",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-17",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp36",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-18",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4uo",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-18",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp3F",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-19",
+        "time": "14:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp3a",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-19",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4u3",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "How Not to be Famous: A Conversation with Richard Kind",
+        "date": "2025-07-19",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/how-not-to-be-famous-a-atlanta-georgia-07-19-2025/event/0E006252E9C84A11",
+        "info": "A limited number of VIP tickets, which include a post-show meet and greet, are available. To select this option, please use the filters and choose \"Post-Show Meet and Greet.\"",
+        "pleaseNote": "Unfortunately, the Event Organizer has had to cancel your event. You don't need to do a thing. We'll issue a refund to the original method of payment used at time of purchase, as soon as funds are received from the Event Organizer. It should appear on your account within 14-21 days. Please Note: If the tickets were transferred to you, the refund will go to the fan who originally purchased the tickets from Ticketmaster. Please see our Purchase Policy for more information.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Atlanta Symphony Hall",
+          "address": "1280 Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Comedy",
+          "subGenre": "Comedy"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-20",
+        "time": "14:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4uK",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-22",
+        "time": "10:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp38",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "The Shhh Show w/ Special Guests Ginuwine and KDubb",
+        "date": "2025-07-22",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/the-shhh-show-w-special-guests-atlanta-georgia-07-22-2025/event/0E0062AEF5935A7D",
+        "info": "This is a 21 & over event. Doors at 7:00 PM. Show at 8:00 PM. Main floor is reserved seating. Balcony is reserved seating.",
+        "pleaseNote": "This is a 21 & over event. Doors at 7:00 PM. Show at 8:00 PM. Main floor is reserved seating. Balcony is reserved seating.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Buckhead Theatre",
+          "address": "3110 Roswell Rd",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30305"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Comedy",
+          "subGenre": "Comedy"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-25",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4uf",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-25",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp33",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Annie (Touring)",
+        "date": "2025-07-26",
+        "time": "14:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7pp3o",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      },
+      {
+        "name": "Rock of Ages",
+        "date": "2025-07-26",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7p4u4",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Woodstock Arts Theatre",
+          "address": "8534 Main St.",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Arts & Theatre",
+          "genre": "Theatre",
+          "subGenre": "Musical"
+        }
+      }
+    ],
+    "festivals": [
+      {
+        "name": "Beyoncé: COWBOY CARTER TOUR",
+        "date": "2025-07-10",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-atlanta-georgia-07-10-2025/event/0E00619F8FC41551",
+        "info": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "pleaseNote": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "R&B",
+          "subGenre": "R&B"
+        }
+      },
+      {
+        "name": "Handcrafted / Sparrow Blue / JOA",
+        "date": "2025-07-10",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/handcrafted-sparrow-blue-joa-atlanta-georgia-07-10-2025/event/0E006296C41D452F",
+        "info": "",
+        "pleaseNote": "All sales are final/non-refundable for this event. For ADA Accommodations, email info@rivalentertainment.com. For parking information and an FAQ, visit us at centerstage-atlanta.com.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Vinyl",
+          "address": "1374 West Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Pop"
+        }
+      },
+      {
+        "name": "Bop To The Top (All Ages)",
+        "date": "2025-07-10",
+        "time": "20:30:00",
+        "url": "https://www.ticketmaster.com/bop-to-the-top-all-ages-atlanta-georgia-07-10-2025/event/0E0062D9CBAE5907",
+        "info": "This is an all ages event. Doors at 8:00 PM. Show at 8:30 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "pleaseNote": "This is an all ages event. Doors at 8:00 PM. Show at 8:30 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Buckhead Theatre",
+          "address": "3110 Roswell Rd",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30305"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Dance/Electronic",
+          "subGenre": "Witchstep"
+        }
+      },
+      {
+        "name": "The Wild Flowers",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7bP-0",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "MadLife Stage and Studios",
+          "address": "8722 Main St",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Alternative",
+          "subGenre": "Alternative Rock"
+        }
+      },
+      {
+        "name": "Zeta",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/zeta-atlanta-georgia-07-11-2025/event/0E0062B3A7C623AC",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade  - Altar",
+          "address": "50 Lower Alabama Street",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Punk"
+        }
+      },
+      {
+        "name": "Bashfortheworld: The Migo in America Tour",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/bashfortheworld-the-migo-in-america-tour-atlanta-georgia-07-11-2025/event/0E00628AB7C03DE8",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Purgatory",
+          "address": "92 Pryor Street SW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Hip-Hop/Rap",
+          "subGenre": "French Rap"
+        }
+      },
+      {
+        "name": "Beyoncé: COWBOY CARTER TOUR",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-atlanta-georgia-07-11-2025/event/0E00623EEAB359D1",
+        "info": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "pleaseNote": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "R&B",
+          "subGenre": "R&B"
+        }
+      },
+      {
+        "name": "Brad Williams",
+        "date": "2025-07-11",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7uwQ8",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Classic Center Theatre",
+          "address": "300 N. Thomas St.",
+          "city": "Athens",
+          "state": "GA",
+          "postalCode": "30601"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Other",
+          "subGenre": "Other"
+        }
+      },
+      {
+        "name": "High Tolerance Ent. Presents: Hurricane Wisdom",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/high-tolerance-ent-presents-hurricane-wisdom-atlanta-georgia-07-11-2025/event/0E0062A5D9DE50AD",
+        "info": "Originally scheduled for Jun 14 2025 @8:00pm. Previously purchased tickets will be honored for the new date. The venue for this event has changed from Center Stage Theater to Vinyl.",
+        "pleaseNote": "Originally scheduled for Jun 14 2025 @8:00pm. Previously purchased tickets will be honored for the new date. The venue for this event has changed from Center Stage Theater to Vinyl.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Vinyl",
+          "address": "1374 West Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Hip-Hop/Rap",
+          "subGenre": "French Rap"
+        }
+      },
+      {
+        "name": "Diana Krall",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/diana-krall-atlanta-georgia-07-11-2025/event/0E00616FA6BB26C0",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Atlanta Symphony Hall",
+          "address": "1280 Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Jazz",
+          "subGenre": "Jazz"
+        }
+      },
+      {
+        "name": "GHOST: Skeletour World Tour 2025 ",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/ghost-skeletour-world-tour-2025-atlanta-georgia-07-11-2025/event/0E006158AEAA67B0",
+        "info": "This show will be a phone-free experience. Phones will be secured in Yondr pouches. Guests maintain possession of their phones at all times.",
+        "pleaseNote": "This show will be a phone-free experience. Use of cellphones, cameras, or recording devices will not be permitted in the performance space. Upon arrival at the venue, all phones will be secured in Yondr pouches that will be opened at the end of the event. Guests maintain possession of their phones at all times and can access their phones throughout the event at designated Phone Use Area in the venue. All phones will be re-secured in Yondr pouches before returning to the event space. Anyone seen using a cellphone during the performance will be escorted out of the venue. Guests are encouraged to bring a bank or credit card for purchases inside the venue. We appreciate your cooperation in creating a phone-free viewing experience.",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "One State Farm Drive",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Metal",
+          "subGenre": "Nu-Metal"
+        }
+      },
+      {
+        "name": "3BallMTY",
+        "date": "2025-07-11",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/3ballmty-atlanta-georgia-07-11-2025/event/0E006263D2A02874",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 8:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com The venue for this event has changed from Hell to Heaven.",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Heaven",
+          "address": "Kenny's Alley @ Underground Atlanta",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Latin",
+          "subGenre": "Latin"
+        }
+      },
+      {
+        "name": "Bop To The Top (18+)",
+        "date": "2025-07-11",
+        "time": "21:00:00",
+        "url": "https://www.ticketmaster.com/bop-to-the-top-18-atlanta-georgia-07-11-2025/event/0E0062B03B957395",
+        "info": "This is an 18 & over event. Doors at 8:30 PM. Show at 9:00 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "pleaseNote": "This is an 18 & over event. Doors at 8:30 PM. Show at 9:00 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Buckhead Theatre",
+          "address": "3110 Roswell Rd",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30305"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Dance/Electronic",
+          "subGenre": "Witchstep"
+        }
+      },
+      {
+        "name": "Wetouchgrass Presents: Anime Rave | 21+",
+        "date": "2025-07-11",
+        "time": "21:00:00",
+        "url": "https://www.ticketmaster.com/wetouchgrass-presents-anime-rave-21-atlanta-georgia-07-11-2025/event/0E0062C2C57F34C0",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 9:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "This event is 21+",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Hell",
+          "address": "92 Pryor Street SW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Dance/Electronic",
+          "subGenre": "Witchstep"
+        }
+      },
+      {
+        "name": "The Wildflowers",
+        "date": "2025-07-11",
+        "time": "21:30:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7bPCb",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "MadLife Stage and Studios",
+          "address": "8722 Main St",
+          "city": "Woodstock",
+          "state": "GA",
+          "postalCode": "30188"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Other",
+          "subGenre": "Other"
+        }
+      },
+      {
+        "name": "Bug Hunter / The Narcissist Cookbook",
+        "date": "2025-07-12",
+        "time": "18:30:00",
+        "url": "https://www.ticketmaster.com/bug-hunter-the-narcissist-cookbook-atlanta-georgia-07-12-2025/event/0E006252A4C42C22",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 6:30 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Purgatory",
+          "address": "92 Pryor Street SW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Alternative Rock"
+        }
+      },
+      {
+        "name": "Big Time Rush: In Real Life Worldwide",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/big-time-rush-in-real-life-alpharetta-georgia-07-12-2025/event/0E006251991A2C9A",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Ameris Bank Amphitheatre",
+          "address": "2200 Encore Parkway",
+          "city": "Alpharetta",
+          "state": "GA",
+          "postalCode": "30009"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Pop"
+        }
+      },
+      {
+        "name": "MSPAINT",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/mspaint-atlanta-georgia-07-12-2025/event/0E00629CBDA444C9",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. The Masquerade is now proud to be serving food. Check our socials for the food window's schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade  - Altar",
+          "address": "50 Lower Alabama Street",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Punk"
+        }
+      },
+      {
+        "name": "The Warning: Keep Me Fed Tour",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/the-warning-keep-me-fed-tour-atlanta-georgia-07-12-2025/event/0E0060AF99CF2E4B",
+        "info": "We look forward to hosting you at The Masquerade! Doors are at 7:00 PM. This event is now taking place in the Heaven venue. The Masquerade is now proud to be serving food. Check our socials for the food window?s schedule, pinned at the top of the feed. For more info and our FAQ, visit MASQ.com",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "The Masquerade - Heaven",
+          "address": "Kenny's Alley @ Underground Atlanta",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30303"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Alternative Rock"
+        }
+      },
+      {
+        "name": "An Evening with Will Downing and guests Najee & Ken Ford",
+        "date": "2025-07-12",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/an-evening-with-will-downing-and-mableton-georgia-07-12-2025/event/0E00624FBD765470",
+        "info": "An Evening with Will Downing and guests Najee & Ken Ford Show Time: 7:00 PM Doors: 6:00 PM",
+        "pleaseNote": "RAIN OR SHINE EVENT",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mable House Barnes Amphitheatre",
+          "address": "5239 Floyd Road",
+          "city": "Mableton",
+          "state": "GA",
+          "postalCode": "30126"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "R&B",
+          "subGenre": "Soul"
+        }
+      }
+    ],
+    "community": [
+      {
+        "name": "Dude Perfect Hero World Tour",
+        "date": "2025-07-18",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/dude-perfect-hero-world-tour-duluth-georgia-07-18-2025/event/0E00613CE0D977C7",
+        "info": "",
+        "pleaseNote": "Ages 2 and older require a ticket. No Refunds. No Exchanges. Pricing, line up, and production setup may change without notice. Ticket purchases exceeding the posted ticket limit, either within a single order or across multiple orders, may be subject to order(s) being voided without notice. Las edades de 2 años o más requieren un boleto. Sin reembolsos. Sin intercambios. Los precios, la alineación y la configuración de producción pueden cambiar sin previo aviso. Las compras de boletos que excedan el límite de boletos publicados, ya sea dentro de un solo pedido o en múltiples pedidos, pueden estar sujetos a que los pedidos se anulen sin previo aviso.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Family",
+          "subGenre": "Other"
+        }
+      },
+      {
+        "name": "PBR: Camping World Team Series Parking",
+        "date": "2025-07-26",
+        "time": "18:45:00",
+        "url": "https://www.ticketmaster.com/pbr-camping-world-team-series-parking-duluth-georgia-07-26-2025/event/0E00616F7F691587",
+        "info": "Purchase Advanced Parking for your event, no refunds or exchanges. Note: purchases through an upsell are non- transferable. Should you wish to transfer your parking ticket to someone else, please purchase separately from tickets.",
+        "pleaseNote": "Should you wish to transfer your parking ticket to someone else, please purchase separately from tickets.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "PBR: Shark Cage Add-On",
+        "date": "2025-07-26",
+        "time": "18:45:00",
+        "url": "https://www.ticketmaster.com/pbr-shark-cage-addon-duluth-georgia-07-26-2025/event/0E006290AF063A46",
+        "info": "The Shark Cage is meant only for the bravest of fans! This is the ultimate experience to witness the top bull riders in the world in jaw-dropping competition against the best bulls in the industry. It is simply the most unique and engaging fan experience in sports! You are in the arena, on the dirt, and are surrounded by nonstop action! 8 seconds have never been so intense! -Ticket buyers will be in the cage for approximately 10-20 minutes to watch 8-10 rides. *Shark Cage experience is only available to those 16 years old and up. *This is an add-on ticket ONLY. A ticket for the event itself must be purchased prior to purchasing this add-on ticket",
+        "pleaseNote": "ADD-ON ONLY: DOES NOT include an event ticket. An event ticket MUST be purchased for this add-on.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "PBR: Camping World Team Series Parking",
+        "date": "2025-07-27",
+        "time": "13:45:00",
+        "url": "https://www.ticketmaster.com/pbr-camping-world-team-series-parking-duluth-georgia-07-27-2025/event/0E00616F7F6A158C",
+        "info": "Purchase Advanced Parking for your event, no refunds or exchanges. Note: purchases through an upsell are non- transferable. Should you wish to transfer your parking ticket to someone else, please purchase separately from tickets.",
+        "pleaseNote": "Should you wish to transfer your parking ticket to someone else, please purchase separately from tickets.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "PBR: Shark Cage Add-On",
+        "date": "2025-07-27",
+        "time": "13:45:00",
+        "url": "https://www.ticketmaster.com/pbr-shark-cage-addon-duluth-georgia-07-27-2025/event/0E006290AF353A76",
+        "info": "The Shark Cage is meant only for the bravest of fans! This is the ultimate experience to witness the top bull riders in the world in jaw-dropping competition against the best bulls in the industry. It is simply the most unique and engaging fan experience in sports! You are in the arena, on the dirt, and are surrounded by nonstop action! 8 seconds have never been so intense! Ticket buyers will be in the cage for approximately 10-20 minutes to watch 8-10 rides. *Shark Cage experience is only available to those 16 years old and up. *This is an add-on ticket ONLY. A ticket for the event itself must be purchased prior to purchasing this add-on ticket",
+        "pleaseNote": "ADD-ON ONLY: DOES NOT include an event ticket. An event ticket MUST be purchased for this add-on.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "An Evening With Dan Carlin - Host Of Hardcore History",
+        "date": "2025-08-01",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/an-evening-with-dan-carlin-host-atlanta-georgia-08-01-2025/event/0E00629E9AB65C1B",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Atlanta Symphony Hall",
+          "address": "1280 Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Lecture/Seminar",
+          "subGenre": "Lecture/Seminar"
+        }
+      },
+      {
+        "name": "Skyline Lounge The Concert: A Tribute to ABBA",
+        "date": "2025-08-15",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/skyline-lounge-the-concert-a-tribute-atlanta-georgia-08-15-2025/event/0E006287C3CA2B35",
+        "info": "Skyline Lounge prior to The Concert: A Tribute to ABBA. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "pleaseNote": "Skyline Lounge prior to The Concert: A Tribute to ABBA. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Energy Performing Arts Centre",
+          "address": "2800 Cobb Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "Penn Foster Group Graduation 2025",
+        "date": "2025-08-16",
+        "time": "14:00:00",
+        "url": "https://www.ticketmaster.com/penn-foster-group-graduation-2025-duluth-georgia-08-16-2025/event/0E0062B6AE9040A9",
+        "info": "Doors: 12:00 pm Ceremony: 2:00 pm Ages 2 and older require a ticket. No Refunds. No Exchanges. Pricing, line up, and production setup may change without notice. Ticket purchases exceeding the posted ticket limit, either within a single order or across multiple orders, may be subject to order(s) being voided without notice. Las edades de 2 años o más requieren un boleto. Sin reembolsos. Sin intercambios. Los precios, la alineación y la configuración de producción pueden cambiar sin previo aviso. Las compras de boletos que excedan el límite de boletos publicados, ya sea dentro de un solo pedido o en múltiples pedidos, pueden estar sujetos a que los pedidos se anulen sin previo aviso.",
+        "pleaseNote": "Ages 2 and older require a ticket. No Refunds. No Exchanges. Pricing, line up, and production setup may change without notice. Ticket purchases exceeding the posted ticket limit, either within a single order or across multiple orders, may be subject to order(s) being voided without notice. Las edades de 2 años o más requieren un boleto. Sin reembolsos. Sin intercambios. Los precios, la alineación y la configuración de producción pueden cambiar sin previo aviso. Las compras de boletos que excedan el límite de boletos publicados, ya sea dentro de un solo pedido o en múltiples pedidos, pueden estar sujetos a que los pedidos se anulen sin previo aviso.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Family",
+          "subGenre": "Other"
+        }
+      },
+      {
+        "name": "Skyline Lounge Intocable",
+        "date": "2025-08-16",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/skyline-lounge-intocable-atlanta-georgia-08-16-2025/event/0E00623BAA443A18",
+        "info": "Skyline Lounge prior to Intocable. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "pleaseNote": "Skyline Lounge prior to Intocable. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Energy Performing Arts Centre",
+          "address": "2800 Cobb Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "Day 26 Experience Package",
+        "date": "2025-08-16",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/day-26-experience-package-atlanta-georgia-08-16-2025/event/0E0062DEE9516A61",
+        "info": "Day26 Experience package: one complimentary mimosa, exclusive access to sound check, exclusive Day26 signed Merch, photo with Day26 & intimate time during sound check with Day26.",
+        "pleaseNote": "Day26 Experience package: one complimentary mimosa, exclusive access to sound check, exclusive Day26 signed Merch, photo with Day26 & intimate time during sound check with Day26.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Center Stage Theater",
+          "address": "1374 W Peachtree St. NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "Gwinnett 2045: Planning Tomorrow, Today",
+        "date": "2025-08-27",
+        "time": "10:00:00",
+        "url": "https://www.ticketmaster.com/gwinnett-2045-planning-tomorrow-today-duluth-georgia-08-27-2025/event/0E0062E3AFAA5C10",
+        "info": "Gwinnett 2045: Planning Tomorrow, Today. is part of Gas South District Speaker Series presented by Northside Hospital to bring together community leaders for a thoughtful conversation about the past, present, and future of Gwinnett. Together, we will explore where we've been, where we are now, and where we must go to ensure our community continues to thrive. This engaging discussion will be moderated by Courtney Bryant of Fox 5 News, featuring panelists Kevin Carmichael (Senior VP of Economic Development, Partnership Gwinnett), Dr. Adrienne Simmons (Board of Education Chair, Gwinnett County Public Schools), Glenn Stephens (Gwinnett County Administer and Debbie Bilbro (CEO, Northside Hospital Gwinnett/Duluth). Purchase individual tickets or a group discount of 10 seats. Doors will open at 9:00am. Networking & Continental Breakfast: 9:00am-10:00am. Event Begins at 10:00am. Parking is included with your purchase.",
+        "pleaseNote": "Doors will open at 9:00am. Networking & Continental Breakfast: 9:00am-10:00am. Event Begins at 10:00am. Parking is included with your purchase.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Theater",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Lecture/Seminar",
+          "subGenre": "Lecture/Seminar"
+        }
+      },
+      {
+        "name": "Skyline Lounge Eden Munoz",
+        "date": "2025-08-29",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/skyline-lounge-eden-munoz-atlanta-georgia-08-29-2025/event/0E006295A7323819",
+        "info": "Skyline Lounge prior to Eden Munoz. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "pleaseNote": "Skyline Lounge prior to Eden Munoz. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Energy Performing Arts Centre",
+          "address": "2800 Cobb Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "Skyline Lounge Rupaul's Drag Race",
+        "date": "2025-09-04",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/skyline-lounge-rupauls-drag-race-atlanta-georgia-09-04-2025/event/0E006270D3BD3322",
+        "info": "Skyline Lounge prior to Rupaul's Drag Race. A ticket to the show is required to enter the venue and a separate ticket is required for admission to the Skyline Lounge. This lounge is for adults 21 and over. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close showtime.",
+        "pleaseNote": "Skyline Lounge prior to Rupaul's Drag Race. A ticket to the show is required to enter the venue and a separate ticket is required for admission to the Skyline Lounge. This lounge is for adults 21 and over. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close showtime.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Energy Performing Arts Centre",
+          "address": "2800 Cobb Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "Collect-A-Con (Atlanta 2, GA)",
+        "date": "2025-09-13",
+        "time": "10:00:00",
+        "url": "https://www.universe.com/events/collect-a-con-atlanta-2-ga-tickets-T2P8CL?ref=ticketmaster",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Georgia World Congress Center",
+          "address": "1 Georgia Dome Drive Northwest",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Hobby/Special Interest Expos",
+          "subGenre": "Hobby/Special Interest Expos"
+        }
+      },
+      {
+        "name": "Skyline Lounge Raphael Saadiq",
+        "date": "2025-09-24",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/skyline-lounge-raphael-saadiq-atlanta-georgia-09-24-2025/event/0E0062D1E17756D3",
+        "info": "Skyline Lounge prior to Raphael Saadiq. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "pleaseNote": "Skyline Lounge prior to Raphael Saadiq. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Energy Performing Arts Centre",
+          "address": "2800 Cobb Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "Disney On Ice 2025",
+        "date": "2025-09-25",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/disney-on-ice-2025-duluth-georgia-09-25-2025/event/0E006266D85D3C7B",
+        "info": "There's nothing more special than sharing Disney magic with loved ones. Whether it's the first time you watched Toy Story, sang along to Let It Go, or cheered for your favorite Disney Princess, Disney On Ice is the perfect place to revisit cherished memories and create new ones together. Mickey, Minnie, Donald, and Goofy will take you on a journey through these unforgettable moments, powered by a Magical MousePad. Discover thrilling adventures from Zootopia, Inside Out 2, and the all-new Moana 2. Relive the timeless tales of Toy Story, Frozen, and Encanto, and the dazzling Disney Princesses. And hold on tight as Stitch grabs the Magical MousePad and shakes things up! Feel the excitement in an enchanted celebration close to home, only at Disney On Ice! *Note: Costumes not permitted for guests 14 years & older. Visit DisneyOnIce.com for more information.",
+        "pleaseNote": "- All guests age 2 & older are required to have a ticket. - No costumes for guests 14 & older. - Character Experiences Available. Access to a private event with interactive time and photo opportunities. Adults & children, ages 2 and up, must have both a Character Experience ticket and a Disney On Ice show ticket to attend the Character Experience. Children must be accompanied by an adult. - Please monitor the venue website for venue policies, including health and safety protocols, which are subject to change. - All tickets are subject to availability. - Prices are subject to change. - Visit DisneyOnIce.com for more event info and Ticket Terms and Conditions.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Ice Shows",
+          "subGenre": "Ice Shows"
+        }
+      },
+      {
+        "name": "Disney On Ice 2025",
+        "date": "2025-09-26",
+        "time": "11:00:00",
+        "url": "https://www.ticketmaster.com/disney-on-ice-2025-duluth-georgia-09-26-2025/event/0E006266D85F3C82",
+        "info": "There's nothing more special than sharing Disney magic with loved ones. Whether it's the first time you watched Toy Story, sang along to Let It Go, or cheered for your favorite Disney Princess, Disney On Ice is the perfect place to revisit cherished memories and create new ones together. Mickey, Minnie, Donald, and Goofy will take you on a journey through these unforgettable moments, powered by a Magical MousePad. Discover thrilling adventures from Zootopia, Inside Out 2, and the all-new Moana 2. Relive the timeless tales of Toy Story, Frozen, and Encanto, and the dazzling Disney Princesses. And hold on tight as Stitch grabs the Magical MousePad and shakes things up! Feel the excitement in an enchanted celebration close to home, only at Disney On Ice! *Note: Costumes not permitted for guests 14 years & older. Visit DisneyOnIce.com for more information.",
+        "pleaseNote": "- All guests age 2 & older are required to have a ticket. - No costumes for guests 14 & older. - Character Experiences Available. Access to a private event with interactive time and photo opportunities. Adults & children, ages 2 and up, must have both a Character Experience ticket and a Disney On Ice show ticket to attend the Character Experience. Children must be accompanied by an adult. - Please monitor the venue website for venue policies, including health and safety protocols, which are subject to change. - All tickets are subject to availability. - Prices are subject to change. - Visit DisneyOnIce.com for more event info and Ticket Terms and Conditions.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Ice Shows",
+          "subGenre": "Ice Shows"
+        }
+      },
+      {
+        "name": "Skyline Lounge Josh Johnson",
+        "date": "2025-09-26",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/skyline-lounge-josh-johnson-atlanta-georgia-09-26-2025/event/0E006289B2C539CD",
+        "info": "Skyline Lounge prior to Josh Johnson. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "pleaseNote": "Skyline Lounge prior to Josh Johnson. THIS EVENT SPACE IS FOR AGES 21 AND OLDER. Add to your experience at Cobb Energy Centre with inclusive $55.00 price at all-new Skyline Lounge. This premium lounge features a custom bar and ample seating. Enhance your concert experience at the new Skyline Lounge at Cobb Energy Centre, furnished by Ashley Furniture. Located on the Grand Tier, this exclusive space offers an airy and inviting atmosphere with a stylish and comfortable bar area. For one inclusive price, your admission includes exclusive use of the lounge starting 90 minutes prior to showtime and during intermission (when applicable), access to a dedicated bar featuring exclusive specialty cocktails; two complimentary drinks: one spirit/beer/wine drink and one complimentary soft drink, coffee, or tea and a selection of chef-prepared hot and cold hors d'oeuvres. When a performance does not have an intermission, the lounge will close at showtime.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Cobb Energy Performing Arts Centre",
+          "address": "2800 Cobb Galleria Parkway",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Undefined",
+          "subGenre": "Undefined"
+        }
+      },
+      {
+        "name": "Disney On Ice 2025",
+        "date": "2025-09-26",
+        "time": "19:30:00",
+        "url": "https://www.ticketmaster.com/disney-on-ice-2025-duluth-georgia-09-26-2025/event/0E006267B42F31CA",
+        "info": "There's nothing more special than sharing Disney magic with loved ones. Whether it's the first time you watched Toy Story, sang along to Let It Go, or cheered for your favorite Disney Princess, Disney On Ice is the perfect place to revisit cherished memories and create new ones together. Mickey, Minnie, Donald, and Goofy will take you on a journey through these unforgettable moments, powered by a Magical MousePad. Discover thrilling adventures from Zootopia, Inside Out 2, and the all-new Moana 2. Relive the timeless tales of Toy Story, Frozen, and Encanto, and the dazzling Disney Princesses. And hold on tight as Stitch grabs the Magical MousePad and shakes things up! Feel the excitement in an enchanted celebration close to home, only at Disney On Ice! *Note: Costumes not permitted for guests 14 years & older. Visit DisneyOnIce.com for more information.",
+        "pleaseNote": "- All guests age 2 & older are required to have a ticket. - No costumes for guests 14 & older. - Character Experiences Available. Access to a private event with interactive time and photo opportunities. Adults & children, ages 2 and up, must have both a Character Experience ticket and a Disney On Ice show ticket to attend the Character Experience. Children must be accompanied by an adult. - Please monitor the venue website for venue policies, including health and safety protocols, which are subject to change. - All tickets are subject to availability. - Prices are subject to change. - Visit DisneyOnIce.com for more event info and Ticket Terms and Conditions.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Ice Shows",
+          "subGenre": "Ice Shows"
+        }
+      },
+      {
+        "name": "Disney On Ice 2025",
+        "date": "2025-09-27",
+        "time": "11:00:00",
+        "url": "https://www.ticketmaster.com/disney-on-ice-2025-duluth-georgia-09-27-2025/event/0E006267B4373252",
+        "info": "There's nothing more special than sharing Disney magic with loved ones. Whether it's the first time you watched Toy Story, sang along to Let It Go, or cheered for your favorite Disney Princess, Disney On Ice is the perfect place to revisit cherished memories and create new ones together. Mickey, Minnie, Donald, and Goofy will take you on a journey through these unforgettable moments, powered by a Magical MousePad. Discover thrilling adventures from Zootopia, Inside Out 2, and the all-new Moana 2. Relive the timeless tales of Toy Story, Frozen, and Encanto, and the dazzling Disney Princesses. And hold on tight as Stitch grabs the Magical MousePad and shakes things up! Feel the excitement in an enchanted celebration close to home, only at Disney On Ice! *Note: Costumes not permitted for guests 14 years & older. Visit DisneyOnIce.com for more information.",
+        "pleaseNote": "- All guests age 2 & older are required to have a ticket. - No costumes for guests 14 & older. - Character Experiences Available. Access to a private event with interactive time and photo opportunities. Adults & children, ages 2 and up, must have both a Character Experience ticket and a Disney On Ice show ticket to attend the Character Experience. Children must be accompanied by an adult. - Please monitor the venue website for venue policies, including health and safety protocols, which are subject to change. - All tickets are subject to availability. - Prices are subject to change. - Visit DisneyOnIce.com for more event info and Ticket Terms and Conditions.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        },
+        "category": {
+          "segment": "Miscellaneous",
+          "genre": "Ice Shows",
+          "subGenre": "Ice Shows"
+        }
+      }
+    ],
+    "all_events": [
+      {
+        "name": "Truist Park Tour Dec 29",
+        "date": "2024-12-29",
+        "time": "14:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Truist Park",
+          "address": "755 Battery Avenue",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30339"
+        }
+      },
+      {
+        "name": "WBB Georgia State vs Southern Miss",
+        "date": "2024-12-29",
+        "time": "14:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "GSU Convocation Center",
+          "address": "455 Capitol Avenue SE",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30312"
+        }
+      },
+      {
+        "name": "Gladiators vs. Norfolk-Suites",
+        "date": "2024-12-29",
+        "time": "15:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Gas South Arena",
+          "address": "6400 Sugarloaf Parkway",
+          "city": "Duluth",
+          "state": "GA",
+          "postalCode": "30097"
+        }
+      },
+      {
+        "name": "NEW YEARS COMEDY JAM",
+        "date": "2024-12-29",
+        "time": "20:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "",
+          "city": "",
+          "state": "",
+          "postalCode": ""
+        }
+      },
+      {
+        "name": "NEW YEARS COMEDY JAM",
+        "date": "2024-12-29",
+        "time": "20:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "",
+          "city": "",
+          "state": "",
+          "postalCode": ""
+        }
+      },
+      {
+        "name": "TM Host and Archtics In App Test 2024",
+        "date": "2024-12-30",
+        "time": "20:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "TM Training Arena",
+          "address": "1 Ticketmaster Way",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30307"
+        }
+      },
+      {
+        "name": "Chick-fil-A Peach Bowl",
+        "date": "2024-12-31",
+        "time": "08:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        }
+      },
+      {
+        "name": "NO OSS INTIX TEST",
+        "date": "2024-12-31",
+        "time": "12:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "TM Training Arena",
+          "address": "1 Ticketmaster Way",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30307"
+        }
+      },
+      {
+        "name": "Beyonce Night 1 Suite Rental Event",
+        "date": "2025-07-10",
+        "time": "18:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        }
+      },
+      {
+        "name": "Beyonce Night 1 Suite Passes",
+        "date": "2025-07-10",
+        "time": "19:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes Benz Stadium",
+          "address": "",
+          "city": "",
+          "state": "",
+          "postalCode": ""
+        }
+      },
+      {
+        "name": "Beyonce Night 1 Molly B",
+        "date": "2025-07-10",
+        "time": "19:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        }
+      },
+      {
+        "name": "Beyoncé: COWBOY CARTER TOUR - Suites 1",
+        "date": "2025-07-10",
+        "time": "19:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        }
+      },
+      {
+        "name": "Beyoncé: COWBOY CARTER TOUR",
+        "date": "2025-07-10",
+        "time": "19:00:00",
+        "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-atlanta-georgia-07-10-2025/event/0E00619F8FC41551",
+        "info": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "pleaseNote": "No post-show refunds will be approved after 30 minutes of main act on stage. All seats were reviewed by the tour and any areas that were determined as significantly obstructed by production elements were accommodated with relocates. Fans who approached venue reps that were still unhappy were given the option to leave the show in order to receive a refund. No further requests can be considered.  Everyone needs a ticket for entry. Strongly recommend that you do not bring a bag on event day. Bags must meet the following criteria in order to enter the stadium: - must be CLEAR plastic, vinyl or PVC and not exceed 12 x 6 x 12 inches. Cannot be tinted with color or include oversized content that prevents visibility into the bag. - Only non-clear bags that are smaller than 4.5\" x 6.5\" will be permitted into the venue. - Any type of non-clear bag exceeding 4.5\" x 6.5\" will not be permitted. Exceptions made for medically necessary items after inspection onsite by security personnel.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Mercedes-Benz Stadium",
+          "address": "1 AMB Drive NW",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30313"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "R&B",
+          "subGenre": "R&B"
+        }
+      },
+      {
+        "name": "ATEEZ",
+        "date": "2025-07-10",
+        "time": "19:30:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "",
+          "city": "",
+          "state": "",
+          "postalCode": ""
+        }
+      },
+      {
+        "name": "ATEEZ",
+        "date": "2025-07-10",
+        "time": "19:30:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "",
+          "city": "",
+          "state": "",
+          "postalCode": ""
+        }
+      },
+      {
+        "name": "Handcrafted / Sparrow Blue / JOA",
+        "date": "2025-07-10",
+        "time": "20:00:00",
+        "url": "https://www.ticketmaster.com/handcrafted-sparrow-blue-joa-atlanta-georgia-07-10-2025/event/0E006296C41D452F",
+        "info": "",
+        "pleaseNote": "All sales are final/non-refundable for this event. For ADA Accommodations, email info@rivalentertainment.com. For parking information and an FAQ, visit us at centerstage-atlanta.com.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Vinyl",
+          "address": "1374 West Peachtree St",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Rock",
+          "subGenre": "Pop"
+        }
+      },
+      {
+        "name": "ASG",
+        "date": "2025-07-10",
+        "time": "20:00:00",
+        "url": "",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "State Farm Arena",
+          "address": "1 State Farm Dr.",
+          "city": "Atl",
+          "state": "GA",
+          "postalCode": "30303"
+        }
+      },
+      {
+        "name": "Bop To The Top (All Ages)",
+        "date": "2025-07-10",
+        "time": "20:30:00",
+        "url": "https://www.ticketmaster.com/bop-to-the-top-all-ages-atlanta-georgia-07-10-2025/event/0E0062D9CBAE5907",
+        "info": "This is an all ages event. Doors at 8:00 PM. Show at 8:30 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "pleaseNote": "This is an all ages event. Doors at 8:00 PM. Show at 8:30 PM. Main floor is general admission standing. Balcony (if available) is general admission seating. GA floor has a pit area with limited capacity. GA ticketholders who arrive after the pit is full will be directed to other open areas on the floor or to the balcony.",
+        "priceRanges": [],
+        "venue": {
+          "name": "Buckhead Theatre",
+          "address": "3110 Roswell Rd",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30305"
+        },
+        "category": {
+          "segment": "Music",
+          "genre": "Dance/Electronic",
+          "subGenre": "Witchstep"
+        }
+      },
+      {
+        "name": "Milo Imagines the World",
+        "date": "2025-07-11",
+        "time": "10:00:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A74yx3",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Alliance Theatre",
+          "address": "1280 Peachtree St NE",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Undefined",
+          "genre": "",
+          "subGenre": ""
+        }
+      },
+      {
+        "name": "Milo Imagines the World",
+        "date": "2025-07-11",
+        "time": "11:45:00",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A74yxK",
+        "info": "",
+        "pleaseNote": "",
+        "priceRanges": [],
+        "venue": {
+          "name": "Alliance Theatre",
+          "address": "1280 Peachtree St NE",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30309"
+        },
+        "category": {
+          "segment": "Undefined",
+          "genre": "",
+          "subGenre": ""
+        }
+      }
+    ]
+  }
+}
