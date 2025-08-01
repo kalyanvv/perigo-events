@@ -84,7 +84,8 @@ Write the announcement:"""
 
 def generate_concerts_prompt(event, city, state):
     title = event.get('title', 'Live Music Event')
-    artist = event.get('entities', [{}])[0].get('name', 'Local artist') if event.get('entities') else 'Local artist'
+    # Use extracted artist name first, then fallback to entities
+    artist = event.get('artist_name') or (event.get('entities', [{}])[0].get('name', 'Local artist') if event.get('entities') else 'Local artist')
     time_str = event.get('time_str', 'This week')
     venue = event.get('geo', {}).get('address', {}).get('formatted_address', 'local venue')
     

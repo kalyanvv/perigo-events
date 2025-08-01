@@ -5,6 +5,7 @@ import logging
 from datetime import datetime, timedelta
 from pathlib import Path
 import os
+from openai import OpenAI
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -33,6 +34,31 @@ def get_categories_list():
     except Exception as e:
         logger.error(f"Category config error: {e}, using default")
         return ["community"]
+
+def extract_artist_name(title):
+    try:
+        with open('config.json') as f:
+            config = json.load(f)
+        
+        client = OpenAI(
+            api_key=config['api']['deepseek']['api_key'],
+            base_url=config['api']['deepseek']['base_url']
+        )
+        
+        response = client.chat.completions.create(
+            model=config['api']['deepseek']['model'],
+            messages=[{
+                "role": "user", 
+                "content": f"Extract only the artist or band name from this concert title: '{title}'. Return just the name, nothing else."
+            }],
+            max_tokens=50,
+            temperature=0
+        )
+        
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        logger.error(f"Artist extraction failed: {e}")
+        return None
 
 def get_fallback_events(category):
     try:
@@ -183,6 +209,12 @@ def fetch_events_by_category(category, lat, lon):
                     event["time_str"] = dt.strftime("%A, %B %d at %I:%M %p")
                 except ValueError:
                     event["time_str"] = event["start_local"]
+            
+            # Extract artist name for concert events
+            if category == "concerts":
+                artist_name = extract_artist_name(event.get('title', ''))
+                if artist_name:
+                    event['artist_name'] = artist_name
         
         return events
     except Exception as e:

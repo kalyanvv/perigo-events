@@ -205,10 +205,12 @@ def main():
             except Exception as e:
                 logger.warning(f"Could not read raw events for {category}: {e}")
         
-        # Save to JSON file
+        # Save to JSON files
         with open('all_events.json', 'w', encoding='utf-8') as f:
             json.dump(all_events, f, indent=2, ensure_ascii=False)
-        logger.info(f"📄 Saved {len(all_events)} events to all_events.json")
+        with open('events.json', 'w', encoding='utf-8') as f:
+            json.dump(all_events, f, indent=2, ensure_ascii=False)
+        logger.info(f"📄 Saved {len(all_events)} events to all_events.json and events.json")
         
         # Initialize ticket finder for selected events only
         ticket_finder = TicketFinder()
@@ -283,6 +285,12 @@ Guidelines:
                 event_dir = os.path.join(base_dir, category, f"event_{category_event_count}")
                 story_path = os.path.join(event_dir, "story.txt")
                 audio_path = os.path.join(event_dir, "announcement.mp3")
+                event_data_path = os.path.join(event_dir, "event_data.json")
+                
+                # Save event data with artist name
+                Path(event_dir).mkdir(parents=True, exist_ok=True)
+                with open(event_data_path, 'w', encoding='utf-8') as f:
+                    json.dump(event, f, indent=2, ensure_ascii=False)
                 
                 # Save story
                 save_story_to_file(story, story_path)
